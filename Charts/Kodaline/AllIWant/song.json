@@ -1,0 +1,30 @@
+{
+  "SongName": "All I Want",
+  "SongYear": 2013,
+  "SongLengthSeconds": 303.225,
+  "ArtistName": "Kodaline",
+  "AlbumName": "In A Perfect World",
+  "InstrumentParts": [
+    {
+      "InstrumentName": "lead",
+      "InstrumentType": "LeadGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 1.3
+    },
+    {
+      "InstrumentName": "vocals",
+      "InstrumentType": "Vocals",
+      "CapoFret": 0
+    }
+  ]
+}

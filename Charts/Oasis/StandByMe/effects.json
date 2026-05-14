@@ -1,0 +1,37 @@
+{
+  "DefaultPreset": "Clean",
+  "Presets": {
+    "Clean": {
+      "Effects": {
+        "NoiseGate":   { "Enabled": true,  "Params": { "threshold": 0.15 } },
+        "Distortion":  { "Enabled": false, "Params": {} },
+        "Chorus":      { "Enabled": false, "Params": {} },
+        "Delay":       { "Enabled": false, "Params": {} }
+      }
+    },
+    "Crunch": {
+      "Effects": {
+        "NoiseGate":   { "Enabled": true,  "Params": { "threshold": 0.2 } },
+        "Distortion":  { "Enabled": true,  "Params": { "gain": 1, "tone": 0.5, "level": 1 } },
+        "Chorus":      { "Enabled": false, "Params": {} },
+        "Delay":       { "Enabled": false, "Params": {} }
+      }
+    },
+    "Lead": {
+      "Effects": {
+        "NoiseGate":   { "Enabled": true,  "Params": { "threshold": 0.25 } },
+        "Distortion":  { "Enabled": true,  "Params": { "gain": 0.7, "tone": 0.65, "level": 0.6 } },
+        "Chorus":      { "Enabled": true,  "Params": { "rate": 0.3, "depth": 0.4, "mix": 0.35 } },
+        "Delay":       { "Enabled": true,  "Params": { "time": 0.2, "feedback": 0.25, "mix": 0.2 } }
+      }
+    }
+  },
+  "Timeline": [
+    { "Time": 0.0,   "Preset": "Crunch" },
+    { "Time": 30.0,  "Preset": "Crunch",  "CrossfadeMs": 200 },
+    { "Time": 60.0,  "Preset": "Lead",    "CrossfadeMs": 150 },
+    { "Time": 90.0,  "Preset": "Crunch",  "CrossfadeMs": 200 },
+    { "Time": 120.0, "Preset": "Lead",    "CrossfadeMs": 100 },
+    { "Time": 150.0, "Preset": "Clean",   "CrossfadeMs": 500 }
+  ]
+}

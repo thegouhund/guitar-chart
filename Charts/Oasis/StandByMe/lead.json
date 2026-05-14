@@ -1,0 +1,5410 @@
+{
+  "Sections": [
+    {
+      "Name": "COUNT",
+      "EndTime": 5.467
+    },
+    {
+      "Name": "p1",
+      "StartTime": 5.467,
+      "EndTime": 13.938
+    },
+    {
+      "Name": "p0",
+      "StartTime": 13.938,
+      "EndTime": 19.565
+    },
+    {
+      "Name": "p2",
+      "StartTime": 19.565,
+      "EndTime": 25.192
+    },
+    {
+      "Name": "p3",
+      "StartTime": 25.192,
+      "EndTime": 36.446
+    },
+    {
+      "Name": "p4",
+      "StartTime": 36.446,
+      "EndTime": 58.978
+    },
+    {
+      "Name": "p5",
+      "StartTime": 58.978,
+      "EndTime": 81.522
+    },
+    {
+      "Name": "p6",
+      "StartTime": 81.522,
+      "EndTime": 89.978
+    },
+    {
+      "Name": "p7",
+      "StartTime": 89.978,
+      "EndTime": 95.615
+    },
+    {
+      "Name": "p8",
+      "StartTime": 95.615,
+      "EndTime": 104.07
+    },
+    {
+      "Name": "p9",
+      "StartTime": 104.07,
+      "EndTime": 120.982
+    },
+    {
+      "Name": "p10",
+      "StartTime": 120.982,
+      "EndTime": 126.619
+    },
+    {
+      "Name": "p11",
+      "StartTime": 126.619,
+      "EndTime": 135.074
+    },
+    {
+      "Name": "p12",
+      "StartTime": 135.074,
+      "EndTime": 138.597
+    },
+    {
+      "Name": "p13",
+      "StartTime": 138.597,
+      "EndTime": 145.643
+    },
+    {
+      "Name": "p12",
+      "StartTime": 145.643,
+      "EndTime": 149.166
+    },
+    {
+      "Name": "p13",
+      "StartTime": 149.166,
+      "EndTime": 156.212
+    },
+    {
+      "Name": "p12",
+      "StartTime": 156.212,
+      "EndTime": 159.736
+    },
+    {
+      "Name": "p14",
+      "StartTime": 159.736,
+      "EndTime": 165.372
+    },
+    {
+      "Name": "p15",
+      "StartTime": 165.372,
+      "EndTime": 175.237
+    },
+    {
+      "Name": "p16",
+      "StartTime": 175.237,
+      "EndTime": 180.874
+    },
+    {
+      "Name": "p17",
+      "StartTime": 180.874,
+      "EndTime": 189.331
+    },
+    {
+      "Name": "p18",
+      "StartTime": 189.331,
+      "EndTime": 194.968
+    },
+    {
+      "Name": "p19",
+      "StartTime": 194.968,
+      "EndTime": 200.606
+    },
+    {
+      "Name": "p20",
+      "StartTime": 200.606,
+      "EndTime": 209.063
+    },
+    {
+      "Name": "p21",
+      "StartTime": 209.063,
+      "EndTime": 220.331
+    },
+    {
+      "Name": "p22",
+      "StartTime": 220.331,
+      "EndTime": 225.964
+    },
+    {
+      "Name": "p23",
+      "StartTime": 225.964,
+      "EndTime": 234.415
+    },
+    {
+      "Name": "p12",
+      "StartTime": 234.415,
+      "EndTime": 237.936
+    },
+    {
+      "Name": "p24",
+      "StartTime": 237.936,
+      "EndTime": 244.978
+    },
+    {
+      "Name": "p12",
+      "StartTime": 244.978,
+      "EndTime": 248.5
+    },
+    {
+      "Name": "p24",
+      "StartTime": 248.5,
+      "EndTime": 255.542
+    },
+    {
+      "Name": "p12",
+      "StartTime": 255.542,
+      "EndTime": 259.063
+    },
+    {
+      "Name": "p25",
+      "StartTime": 259.063,
+      "EndTime": 264.697
+    },
+    {
+      "Name": "p26",
+      "StartTime": 264.697,
+      "EndTime": 274.556
+    },
+    {
+      "Name": "p27",
+      "StartTime": 274.556,
+      "EndTime": 280.192
+    },
+    {
+      "Name": "p28",
+      "StartTime": 280.192,
+      "EndTime": 285.829
+    },
+    {
+      "Name": "p29",
+      "StartTime": 285.829,
+      "EndTime": 291.465
+    },
+    {
+      "Name": "p30",
+      "StartTime": 291.465,
+      "EndTime": 297.102
+    },
+    {
+      "Name": "p31",
+      "StartTime": 297.102,
+      "EndTime": 302.738
+    },
+    {
+      "Name": "p32",
+      "StartTime": 302.738,
+      "EndTime": 311.193
+    },
+    {
+      "Name": "p33",
+      "StartTime": 311.193,
+      "EndTime": 314.716
+    },
+    {
+      "Name": "p34",
+      "StartTime": 314.716,
+      "EndTime": 321.762
+    },
+    {
+      "Name": "p35",
+      "StartTime": 321.762,
+      "EndTime": 325.284
+    },
+    {
+      "Name": "p34",
+      "StartTime": 325.284,
+      "EndTime": 332.33
+    },
+    {
+      "Name": "p35",
+      "StartTime": 332.33,
+      "EndTime": 335.853
+    },
+    {
+      "Name": "p25",
+      "StartTime": 335.853,
+      "EndTime": 341.489
+    },
+    {
+      "Name": "p36",
+      "StartTime": 341.489,
+      "EndTime": 346.421
+    },
+    {
+      "Name": "p37",
+      "StartTime": 346.421,
+      "EndTime": 360.511
+    },
+    {
+      "Name": "p0",
+      "StartTime": 360.511,
+      "EndTime": 363.328
+    },
+    {
+      "Name": "END",
+      "StartTime": 363.328,
+      "EndTime": 361.865
+    }
+  ],
+  "Chords": [],
+  "Notes": [
+    {
+      "TimeOffset": 6.173,
+      "TimeLength": 0.353,
+      "Fret": 12,
+      "String": 0,
+      "HandFret": 12,
+      "EndTime": 6.526
+    },
+    {
+      "TimeOffset": 6.526,
+      "TimeLength": 0.526,
+      "Fret": 12,
+      "String": 0,
+      "Techniques": "Slide, Continued",
+      "HandFret": 12,
+      "SlideFret": 3,
+      "EndTime": 7.052
+    },
+    {
+      "TimeOffset": 7.055,
+      "TimeLength": 2.294,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 3,
+      "EndTime": 9.349
+    },
+    {
+      "TimeOffset": 9.349,
+      "TimeLength": 3.53,
+      "Fret": 3,
+      "String": 0,
+      "Techniques": "Vibrato, Continued",
+      "HandFret": 3,
+      "EndTime": 12.879
+    },
+    {
+      "TimeOffset": 12.879,
+      "TimeLength": 0.882,
+      "Fret": 3,
+      "String": 0,
+      "Techniques": "Continued",
+      "HandFret": 3,
+      "EndTime": 13.761
+    },
+    {
+      "TimeOffset": 20.971,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 20.971
+    },
+    {
+      "TimeOffset": 21.147,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 21.147
+    },
+    {
+      "TimeOffset": 21.323,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 21.323
+    },
+    {
+      "TimeOffset": 21.675,
+      "Fret": 14,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 21.675
+    },
+    {
+      "TimeOffset": 22.027,
+      "TimeLength": 1.67,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 22.027,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 22.202,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 23.433,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 23.609,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 23.697
+    },
+    {
+      "TimeOffset": 23.785,
+      "TimeLength": 0.615,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 23.785,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 23.873,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 24.225,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 24.4
+    },
+    {
+      "TimeOffset": 24.488,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 24.488
+    },
+    {
+      "TimeOffset": 24.664,
+      "Fret": 14,
+      "String": 3,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 24.664
+    },
+    {
+      "TimeOffset": 24.84,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 24.84
+    },
+    {
+      "TimeOffset": 25.192,
+      "TimeLength": 0.703,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 25.894999
+    },
+    {
+      "TimeOffset": 25.895,
+      "TimeLength": 0.879,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato, Continued",
+      "HandFret": 11,
+      "EndTime": 26.774
+    },
+    {
+      "TimeOffset": 26.95,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 26.95
+    },
+    {
+      "TimeOffset": 27.302,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 27.302
+    },
+    {
+      "TimeOffset": 27.654,
+      "TimeLength": 0.615,
+      "Fret": 11,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 28.269
+    },
+    {
+      "TimeOffset": 28.269,
+      "TimeLength": 1.319,
+      "Fret": 11,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 29.588
+    },
+    {
+      "TimeOffset": 29.764,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 29.764
+    },
+    {
+      "TimeOffset": 29.94,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 29.94
+    },
+    {
+      "TimeOffset": 30.115,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 30.115
+    },
+    {
+      "TimeOffset": 30.291,
+      "Fret": 14,
+      "String": 3,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 30.291
+    },
+    {
+      "TimeOffset": 30.467,
+      "TimeLength": 1.404,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 31.870998
+    },
+    {
+      "TimeOffset": 31.874,
+      "Fret": 12,
+      "String": 2,
+      "Techniques": "PalmMute",
+      "HandFret": 11,
+      "EndTime": 31.874
+    },
+    {
+      "TimeOffset": 32.226,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 32.226
+    },
+    {
+      "TimeOffset": 32.401,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 32.401
+    },
+    {
+      "TimeOffset": 32.577,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 32.577
+    },
+    {
+      "TimeOffset": 32.753,
+      "Fret": 14,
+      "String": 3,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 32.753
+    },
+    {
+      "TimeOffset": 32.929,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 32.929
+    },
+    {
+      "TimeOffset": 33.281,
+      "TimeLength": 1.582,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 33.281,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 33.808,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 34.687,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 34.775,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 34.863
+    },
+    {
+      "TimeOffset": 35.039,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 35.039,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 35.127,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 35.391,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 35.655003
+    },
+    {
+      "TimeOffset": 35.742,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 35.742
+    },
+    {
+      "TimeOffset": 35.918,
+      "Fret": 14,
+      "String": 3,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 35.918
+    },
+    {
+      "TimeOffset": 36.094,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 36.094
+    },
+    {
+      "TimeOffset": 36.446,
+      "TimeLength": 1.76,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 38.205997
+    },
+    {
+      "TimeOffset": 38.206,
+      "TimeLength": 0.616,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato, Continued",
+      "HandFret": 11,
+      "EndTime": 38.822002
+    },
+    {
+      "TimeOffset": 38.822,
+      "TimeLength": 0.352,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 7,
+      "EndTime": 39.174
+    },
+    {
+      "TimeOffset": 39.262,
+      "TimeLength": 2.641,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 41.903
+    },
+    {
+      "TimeOffset": 42.079,
+      "TimeLength": 1.232,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 43.310997
+    },
+    {
+      "TimeOffset": 43.487,
+      "TimeLength": 0.88,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 44.367
+    },
+    {
+      "TimeOffset": 44.543,
+      "TimeLength": 2.993,
+      "Fret": 0,
+      "String": 2,
+      "HandFret": 2,
+      "EndTime": 47.536
+    },
+    {
+      "TimeOffset": 47.712,
+      "TimeLength": 2.288,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 50
+    },
+    {
+      "TimeOffset": 50.176,
+      "Fret": 0,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 50.176
+    },
+    {
+      "TimeOffset": 50.528,
+      "TimeLength": 2.641,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 53.169
+    },
+    {
+      "TimeOffset": 53.345,
+      "TimeLength": 1.232,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 54.577
+    },
+    {
+      "TimeOffset": 54.753,
+      "TimeLength": 0.88,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 55.633
+    },
+    {
+      "TimeOffset": 55.809,
+      "TimeLength": 0.969,
+      "Fret": 0,
+      "String": 2,
+      "HandFret": 10,
+      "EndTime": 56.778
+    },
+    {
+      "TimeOffset": 56.866,
+      "TimeLength": 0.088,
+      "Fret": 10,
+      "String": 1,
+      "Techniques": "Slide",
+      "HandFret": 10,
+      "SlideFret": 12,
+      "EndTime": 56.954002
+    },
+    {
+      "TimeOffset": 56.954,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 1,
+      "Techniques": "Slide, Continued",
+      "HandFret": 12,
+      "SlideFret": 3,
+      "EndTime": 57.482
+    },
+    {
+      "TimeOffset": 57.57,
+      "TimeLength": 0.528,
+      "Fret": 0,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 58.098
+    },
+    {
+      "TimeOffset": 58.274,
+      "TimeLength": 0.528,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 58.802
+    },
+    {
+      "TimeOffset": 58.978,
+      "TimeLength": 1.232,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 60.21
+    },
+    {
+      "TimeOffset": 60.386,
+      "TimeLength": 0.088,
+      "Fret": 5,
+      "String": 1,
+      "Techniques": "Slide",
+      "HandFret": 2,
+      "SlideFret": 7,
+      "EndTime": 60.474003
+    },
+    {
+      "TimeOffset": 60.474,
+      "TimeLength": 0.261,
+      "Fret": 7,
+      "String": 1,
+      "Techniques": "Continued",
+      "HandFret": 7,
+      "EndTime": 60.735
+    },
+    {
+      "TimeOffset": 60.738,
+      "Fret": 5,
+      "String": 2,
+      "HandFret": 5,
+      "EndTime": 60.738
+    },
+    {
+      "TimeOffset": 61.09,
+      "Fret": 7,
+      "String": 2,
+      "HandFret": 5,
+      "EndTime": 61.09
+    },
+    {
+      "TimeOffset": 61.443,
+      "TimeLength": 2.288,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 5,
+      "EndTime": 63.731003
+    },
+    {
+      "TimeOffset": 63.907,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 5,
+      "EndTime": 63.907
+    },
+    {
+      "TimeOffset": 63.995,
+      "TimeLength": 0.44,
+      "Fret": 7,
+      "String": 1,
+      "Techniques": "HammerOn, Slide",
+      "HandFret": 5,
+      "SlideFret": 3,
+      "EndTime": 64.435
+    },
+    {
+      "TimeOffset": 64.611,
+      "TimeLength": 1.233,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 65.844
+    },
+    {
+      "TimeOffset": 66.02,
+      "TimeLength": 0.881,
+      "Fret": 2,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 66.90099
+    },
+    {
+      "TimeOffset": 67.077,
+      "TimeLength": 2.995,
+      "Fret": 0,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 70.07201
+    },
+    {
+      "TimeOffset": 70.248,
+      "TimeLength": 1.938,
+      "Fret": 0,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 72.186005
+    },
+    {
+      "TimeOffset": 72.362,
+      "TimeLength": 0.529,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 72.891
+    },
+    {
+      "TimeOffset": 73.067,
+      "TimeLength": 2.642,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 75.709
+    },
+    {
+      "TimeOffset": 75.885,
+      "TimeLength": 0.529,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 76.414
+    },
+    {
+      "TimeOffset": 76.59,
+      "TimeLength": 0.528,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 77.118
+    },
+    {
+      "TimeOffset": 77.294,
+      "TimeLength": 0.529,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 77.823
+    },
+    {
+      "TimeOffset": 77.999,
+      "TimeLength": 0.529,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 78.528
+    },
+    {
+      "TimeOffset": 78.704,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 78.704
+    },
+    {
+      "TimeOffset": 78.88,
+      "Fret": 7,
+      "String": 1,
+      "Techniques": "HammerOn",
+      "HandFret": 5,
+      "EndTime": 78.88
+    },
+    {
+      "TimeOffset": 79.056,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 5,
+      "EndTime": 79.056
+    },
+    {
+      "TimeOffset": 79.408,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 5,
+      "EndTime": 79.408
+    },
+    {
+      "TimeOffset": 79.585,
+      "Fret": 7,
+      "String": 1,
+      "Techniques": "HammerOn",
+      "HandFret": 5,
+      "EndTime": 79.585
+    },
+    {
+      "TimeOffset": 79.761,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 5,
+      "EndTime": 79.761
+    },
+    {
+      "TimeOffset": 80.113,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 5,
+      "EndTime": 80.113
+    },
+    {
+      "TimeOffset": 80.289,
+      "Fret": 7,
+      "String": 1,
+      "Techniques": "HammerOn",
+      "HandFret": 5,
+      "EndTime": 80.289
+    },
+    {
+      "TimeOffset": 80.465,
+      "Fret": 5,
+      "String": 2,
+      "HandFret": 5,
+      "EndTime": 80.465
+    },
+    {
+      "TimeOffset": 80.818,
+      "Fret": 5,
+      "String": 2,
+      "HandFret": 5,
+      "EndTime": 80.818
+    },
+    {
+      "TimeOffset": 80.994,
+      "Fret": 7,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 5,
+      "EndTime": 80.994
+    },
+    {
+      "TimeOffset": 81.17,
+      "Fret": 5,
+      "String": 2,
+      "HandFret": 5,
+      "EndTime": 81.17
+    },
+    {
+      "TimeOffset": 81.522,
+      "TimeLength": 2.378,
+      "Fret": 5,
+      "String": 2,
+      "Techniques": "Vibrato",
+      "HandFret": 5,
+      "EndTime": 83.9
+    },
+    {
+      "TimeOffset": 83.9,
+      "TimeLength": 0.353,
+      "Fret": 5,
+      "String": 2,
+      "Techniques": "Slide, Continued",
+      "HandFret": 5,
+      "SlideFret": 2,
+      "EndTime": 84.253
+    },
+    {
+      "TimeOffset": 84.341,
+      "TimeLength": 2.642,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 86.983
+    },
+    {
+      "TimeOffset": 87.159,
+      "TimeLength": 1.233,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 88.392
+    },
+    {
+      "TimeOffset": 88.569,
+      "TimeLength": 0.88,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 89.449
+    },
+    {
+      "TimeOffset": 89.625,
+      "TimeLength": 0.353,
+      "Fret": 0,
+      "String": 2,
+      "HandFret": 12,
+      "EndTime": 89.978
+    },
+    {
+      "TimeOffset": 90.33,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 12,
+      "EndTime": 90.33
+    },
+    {
+      "TimeOffset": 90.506,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 12,
+      "EndTime": 90.506
+    },
+    {
+      "TimeOffset": 90.682,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 12,
+      "EndTime": 90.682
+    },
+    {
+      "TimeOffset": 90.859,
+      "Fret": 14,
+      "String": 3,
+      "Techniques": "HammerOn",
+      "HandFret": 12,
+      "EndTime": 90.859
+    },
+    {
+      "TimeOffset": 91.035,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 12,
+      "EndTime": 91.035
+    },
+    {
+      "TimeOffset": 91.211,
+      "Fret": 14,
+      "String": 3,
+      "Techniques": "HammerOn",
+      "HandFret": 12,
+      "EndTime": 91.211
+    },
+    {
+      "TimeOffset": 91.387,
+      "TimeLength": 0.617,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 91.387,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 91.475,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 91.827,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 12,
+      "EndTime": 92.004
+    },
+    {
+      "TimeOffset": 92.092,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 12,
+      "EndTime": 92.092
+    },
+    {
+      "TimeOffset": 92.268,
+      "Fret": 14,
+      "String": 3,
+      "Techniques": "HammerOn",
+      "HandFret": 12,
+      "EndTime": 92.268
+    },
+    {
+      "TimeOffset": 92.444,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 12,
+      "EndTime": 92.444
+    },
+    {
+      "TimeOffset": 92.796,
+      "TimeLength": 1.41,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 12,
+      "EndTime": 94.206
+    },
+    {
+      "TimeOffset": 94.206,
+      "TimeLength": 0.968,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 12,
+      "EndTime": 95.174
+    },
+    {
+      "TimeOffset": 95.174,
+      "TimeLength": 0.177,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 12,
+      "SlideFret": 7,
+      "EndTime": 95.351006
+    },
+    {
+      "TimeOffset": 95.615,
+      "TimeLength": 2.642,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 98.256996
+    },
+    {
+      "TimeOffset": 98.433,
+      "TimeLength": 1.233,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 99.666
+    },
+    {
+      "TimeOffset": 99.843,
+      "TimeLength": 0.969,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 100.812004
+    },
+    {
+      "TimeOffset": 100.9,
+      "TimeLength": 0.88,
+      "Fret": 0,
+      "String": 2,
+      "HandFret": 10,
+      "EndTime": 101.78
+    },
+    {
+      "TimeOffset": 101.957,
+      "TimeLength": 0.088,
+      "Fret": 10,
+      "String": 1,
+      "Techniques": "Slide",
+      "HandFret": 10,
+      "SlideFret": 12,
+      "EndTime": 102.045
+    },
+    {
+      "TimeOffset": 102.045,
+      "TimeLength": 0.44,
+      "Fret": 12,
+      "String": 1,
+      "Techniques": "Slide, Continued",
+      "HandFret": 12,
+      "SlideFret": 3,
+      "EndTime": 102.485
+    },
+    {
+      "TimeOffset": 102.661,
+      "TimeLength": 0.529,
+      "Fret": 0,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 103.19
+    },
+    {
+      "TimeOffset": 103.366,
+      "TimeLength": 0.528,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 103.894
+    },
+    {
+      "TimeOffset": 104.07,
+      "TimeLength": 1.234,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 105.304
+    },
+    {
+      "TimeOffset": 105.48,
+      "TimeLength": 0.088,
+      "Fret": 5,
+      "String": 1,
+      "Techniques": "Slide",
+      "HandFret": 2,
+      "SlideFret": 7,
+      "EndTime": 105.568
+    },
+    {
+      "TimeOffset": 105.568,
+      "TimeLength": 0.261,
+      "Fret": 7,
+      "String": 1,
+      "Techniques": "Continued",
+      "HandFret": 7,
+      "EndTime": 105.829
+    },
+    {
+      "TimeOffset": 105.832,
+      "Fret": 5,
+      "String": 2,
+      "HandFret": 5,
+      "EndTime": 105.832
+    },
+    {
+      "TimeOffset": 106.184,
+      "Fret": 7,
+      "String": 2,
+      "HandFret": 5,
+      "EndTime": 106.184
+    },
+    {
+      "TimeOffset": 106.537,
+      "TimeLength": 2.29,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 5,
+      "EndTime": 108.827
+    },
+    {
+      "TimeOffset": 109.003,
+      "Fret": 5,
+      "String": 1,
+      "HandFret": 5,
+      "EndTime": 109.003
+    },
+    {
+      "TimeOffset": 109.091,
+      "TimeLength": 0.44,
+      "Fret": 7,
+      "String": 1,
+      "Techniques": "HammerOn, Slide",
+      "HandFret": 5,
+      "SlideFret": 3,
+      "EndTime": 109.531006
+    },
+    {
+      "TimeOffset": 109.707,
+      "TimeLength": 1.234,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 110.941
+    },
+    {
+      "TimeOffset": 111.117,
+      "TimeLength": 0.881,
+      "Fret": 2,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 111.99799
+    },
+    {
+      "TimeOffset": 112.174,
+      "TimeLength": 2.994,
+      "Fret": 0,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 115.16801
+    },
+    {
+      "TimeOffset": 115.345,
+      "TimeLength": 1.937,
+      "Fret": 0,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 117.282
+    },
+    {
+      "TimeOffset": 117.458,
+      "TimeLength": 0.529,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 117.987
+    },
+    {
+      "TimeOffset": 118.163,
+      "TimeLength": 2.642,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 120.805
+    },
+    {
+      "TimeOffset": 120.982,
+      "TimeLength": 1.233,
+      "Fret": 0,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 122.215004
+    },
+    {
+      "TimeOffset": 122.391,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 122.391
+    },
+    {
+      "TimeOffset": 122.567,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 122.567
+    },
+    {
+      "TimeOffset": 122.743,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 122.743
+    },
+    {
+      "TimeOffset": 122.919,
+      "Fret": 14,
+      "String": 3,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 122.919
+    },
+    {
+      "TimeOffset": 123.095,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "PullOff",
+      "HandFret": 11,
+      "EndTime": 123.095
+    },
+    {
+      "TimeOffset": 123.272,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 123.272
+    },
+    {
+      "TimeOffset": 123.448,
+      "TimeLength": 1.585,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 125.033
+    },
+    {
+      "TimeOffset": 125.209,
+      "TimeLength": 0.265,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 125.209,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 125.386,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 125.474
+    },
+    {
+      "TimeOffset": 125.562,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 125.562
+    },
+    {
+      "TimeOffset": 125.738,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 125.738
+    },
+    {
+      "TimeOffset": 125.914,
+      "TimeLength": 0.264,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 125.914,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 126.09,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 126.178
+    },
+    {
+      "TimeOffset": 126.266,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 126.266
+    },
+    {
+      "TimeOffset": 126.442,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 126.442
+    },
+    {
+      "TimeOffset": 126.619,
+      "TimeLength": 2.289,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 128.908
+    },
+    {
+      "TimeOffset": 129.085,
+      "TimeLength": 1.585,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 130.67001
+    },
+    {
+      "TimeOffset": 130.846,
+      "TimeLength": 0.617,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 130.846,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 130.934,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 131.111,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 131.199,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 131.463
+    },
+    {
+      "TimeOffset": 131.551,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 131.551
+    },
+    {
+      "TimeOffset": 131.903,
+      "TimeLength": 0.525,
+      "Fret": 14,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 132.428
+    },
+    {
+      "TimeOffset": 132.432,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 132.432
+    },
+    {
+      "TimeOffset": 132.608,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 132.608
+    },
+    {
+      "TimeOffset": 132.96,
+      "TimeLength": 1.409,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 134.369
+    },
+    {
+      "TimeOffset": 134.369,
+      "TimeLength": 0.353,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 6,
+      "EndTime": 134.722
+    },
+    {
+      "TimeOffset": 135.074,
+      "TimeLength": 0.617,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 1,
+      "EndTime": 135.69101
+    },
+    {
+      "TimeOffset": 135.779,
+      "TimeLength": 0.616,
+      "Fret": 1,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 136.395
+    },
+    {
+      "TimeOffset": 136.483,
+      "TimeLength": 0.617,
+      "Fret": 2,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 137.1
+    },
+    {
+      "TimeOffset": 137.188,
+      "TimeLength": 1.233,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 138.421
+    },
+    {
+      "TimeOffset": 138.597,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 138.597
+    },
+    {
+      "TimeOffset": 138.773,
+      "TimeLength": 0.002,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 138.775
+    },
+    {
+      "TimeOffset": 138.949,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 139.47801
+    },
+    {
+      "TimeOffset": 139.654,
+      "TimeLength": 1.585,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 141.23901
+    },
+    {
+      "TimeOffset": 141.416,
+      "TimeLength": 0.528,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 141.416,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 141.504,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 141.68,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 141.768,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 141.944
+    },
+    {
+      "TimeOffset": 142.12,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 142.12
+    },
+    {
+      "TimeOffset": 142.472,
+      "TimeLength": 1.054,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 142.472,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 143.089,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 143.177,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 143.485,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 143.526
+    },
+    {
+      "TimeOffset": 143.529,
+      "TimeLength": 1.233,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 144.76201
+    },
+    {
+      "TimeOffset": 144.762,
+      "TimeLength": 0.353,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 145.11499
+    },
+    {
+      "TimeOffset": 145.115,
+      "TimeLength": 0.352,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 6,
+      "EndTime": 145.46701
+    },
+    {
+      "TimeOffset": 145.643,
+      "TimeLength": 0.617,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 1,
+      "EndTime": 146.26001
+    },
+    {
+      "TimeOffset": 146.348,
+      "TimeLength": 0.616,
+      "Fret": 1,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 146.964
+    },
+    {
+      "TimeOffset": 147.052,
+      "TimeLength": 0.617,
+      "Fret": 2,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 147.669
+    },
+    {
+      "TimeOffset": 147.757,
+      "TimeLength": 1.233,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 148.99
+    },
+    {
+      "TimeOffset": 149.166,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 149.166
+    },
+    {
+      "TimeOffset": 149.342,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 149.342
+    },
+    {
+      "TimeOffset": 149.519,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 150.047
+    },
+    {
+      "TimeOffset": 150.223,
+      "TimeLength": 1.674,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 151.897
+    },
+    {
+      "TimeOffset": 151.985,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 151.985,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 152.073,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 152.249,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 152.337,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 152.601
+    },
+    {
+      "TimeOffset": 152.689,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 152.689
+    },
+    {
+      "TimeOffset": 153.042,
+      "TimeLength": 1.054,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 153.042,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 153.658,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 153.746,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 154.055,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 154.09601
+    },
+    {
+      "TimeOffset": 154.099,
+      "TimeLength": 1.233,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 155.332
+    },
+    {
+      "TimeOffset": 155.332,
+      "TimeLength": 0.352,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 155.684
+    },
+    {
+      "TimeOffset": 155.684,
+      "TimeLength": 0.352,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 6,
+      "EndTime": 156.03601
+    },
+    {
+      "TimeOffset": 156.212,
+      "TimeLength": 0.617,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 1,
+      "EndTime": 156.82901
+    },
+    {
+      "TimeOffset": 156.917,
+      "TimeLength": 0.616,
+      "Fret": 1,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 157.533
+    },
+    {
+      "TimeOffset": 157.622,
+      "TimeLength": 0.616,
+      "Fret": 2,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 158.23799
+    },
+    {
+      "TimeOffset": 158.326,
+      "TimeLength": 1.233,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 159.559
+    },
+    {
+      "TimeOffset": 159.736,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 159.736
+    },
+    {
+      "TimeOffset": 159.912,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 159.912
+    },
+    {
+      "TimeOffset": 160.088,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 160.616
+    },
+    {
+      "TimeOffset": 160.792,
+      "TimeLength": 1.674,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 162.466
+    },
+    {
+      "TimeOffset": 162.554,
+      "TimeLength": 0.617,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 162.554,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 162.642,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 162.818,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 162.906,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 163.171
+    },
+    {
+      "TimeOffset": 163.259,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 163.259
+    },
+    {
+      "TimeOffset": 163.611,
+      "TimeLength": 1.054,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 163.611,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 164.227,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 164.316,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 164.624,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 164.665
+    },
+    {
+      "TimeOffset": 164.668,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 165.196
+    },
+    {
+      "TimeOffset": 165.372,
+      "TimeLength": 0.617,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 165.372,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 165.461,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 165.637,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 165.725,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 165.989
+    },
+    {
+      "TimeOffset": 166.077,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 166.077
+    },
+    {
+      "TimeOffset": 166.429,
+      "TimeLength": 1.054,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 166.429,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 167.046,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 167.134,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 167.442,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 167.483
+    },
+    {
+      "TimeOffset": 167.486,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 168.015
+    },
+    {
+      "TimeOffset": 168.191,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 168.191,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 168.279,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 168.455,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 168.543,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 168.80699
+    },
+    {
+      "TimeOffset": 168.896,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 168.896
+    },
+    {
+      "TimeOffset": 169.248,
+      "TimeLength": 1.054,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 169.248,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 169.864,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 169.952,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 170.261,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 170.302
+    },
+    {
+      "TimeOffset": 170.305,
+      "TimeLength": 0.88,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 171.185
+    },
+    {
+      "TimeOffset": 171.362,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 171.362
+    },
+    {
+      "TimeOffset": 171.714,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 171.714
+    },
+    {
+      "TimeOffset": 172.066,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 172.066
+    },
+    {
+      "TimeOffset": 172.419,
+      "TimeLength": 0.264,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 172.68301
+    },
+    {
+      "TimeOffset": 172.683,
+      "TimeLength": 0.088,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 11,
+      "EndTime": 172.771
+    },
+    {
+      "TimeOffset": 172.771,
+      "TimeLength": 0.349,
+      "Fret": 11,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 173.12
+    },
+    {
+      "TimeOffset": 173.123,
+      "TimeLength": 0.264,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 173.38701
+    },
+    {
+      "TimeOffset": 173.387,
+      "TimeLength": 0.088,
+      "Fret": 11,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 9,
+      "EndTime": 173.47499
+    },
+    {
+      "TimeOffset": 173.475,
+      "TimeLength": 0.35,
+      "Fret": 9,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 7,
+      "EndTime": 173.82501
+    },
+    {
+      "TimeOffset": 173.828,
+      "TimeLength": 0.264,
+      "Fret": 9,
+      "String": 3,
+      "HandFret": 7,
+      "EndTime": 174.09201
+    },
+    {
+      "TimeOffset": 174.092,
+      "TimeLength": 0.088,
+      "Fret": 9,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 7,
+      "SlideFret": 7,
+      "EndTime": 174.18
+    },
+    {
+      "TimeOffset": 174.18,
+      "TimeLength": 0.349,
+      "Fret": 7,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 7,
+      "EndTime": 174.52899
+    },
+    {
+      "TimeOffset": 174.532,
+      "TimeLength": 0.265,
+      "Fret": 7,
+      "String": 3,
+      "HandFret": 7,
+      "EndTime": 174.797
+    },
+    {
+      "TimeOffset": 174.797,
+      "TimeLength": 0.088,
+      "Fret": 7,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 7,
+      "SlideFret": 5,
+      "EndTime": 174.885
+    },
+    {
+      "TimeOffset": 174.885,
+      "TimeLength": 0.176,
+      "Fret": 5,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 2,
+      "EndTime": 175.06099
+    },
+    {
+      "TimeOffset": 175.237,
+      "TimeLength": 2.995,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 178.232
+    },
+    {
+      "TimeOffset": 178.408,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 178.408
+    },
+    {
+      "TimeOffset": 178.584,
+      "Fret": 3,
+      "String": 1,
+      "Techniques": "HammerOn",
+      "HandFret": 2,
+      "EndTime": 178.584
+    },
+    {
+      "TimeOffset": 178.76,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 178.76
+    },
+    {
+      "TimeOffset": 179.112,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 179.112
+    },
+    {
+      "TimeOffset": 179.465,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 179.465
+    },
+    {
+      "TimeOffset": 179.817,
+      "TimeLength": 0.528,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 180.345
+    },
+    {
+      "TimeOffset": 180.522,
+      "Fret": 0,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 180.522
+    },
+    {
+      "TimeOffset": 180.874,
+      "TimeLength": 2.643,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 183.517
+    },
+    {
+      "TimeOffset": 183.693,
+      "TimeLength": 2.643,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 186.336
+    },
+    {
+      "TimeOffset": 186.512,
+      "TimeLength": 1.233,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 187.745
+    },
+    {
+      "TimeOffset": 187.921,
+      "TimeLength": 0.881,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 188.802
+    },
+    {
+      "TimeOffset": 188.978,
+      "TimeLength": 0.177,
+      "Fret": 0,
+      "String": 2,
+      "HandFret": 10,
+      "EndTime": 189.155
+    },
+    {
+      "TimeOffset": 189.331,
+      "Fret": 10,
+      "String": 1,
+      "HandFret": 10,
+      "EndTime": 189.331
+    },
+    {
+      "TimeOffset": 189.507,
+      "TimeLength": 0.173,
+      "Fret": 12,
+      "String": 1,
+      "Techniques": "Slide",
+      "HandFret": 10,
+      "SlideFret": 14,
+      "EndTime": 189.68001
+    },
+    {
+      "TimeOffset": 189.683,
+      "TimeLength": 0.173,
+      "Fret": 14,
+      "String": 1,
+      "HandFret": 14,
+      "EndTime": 189.856
+    },
+    {
+      "TimeOffset": 189.859,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 12,
+      "EndTime": 189.859
+    },
+    {
+      "TimeOffset": 190.035,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 12,
+      "EndTime": 190.035
+    },
+    {
+      "TimeOffset": 190.388,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 12,
+      "EndTime": 190.388
+    },
+    {
+      "TimeOffset": 190.74,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 12,
+      "EndTime": 190.74
+    },
+    {
+      "TimeOffset": 191.092,
+      "TimeLength": 0.177,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 191.092,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 191.181,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 12,
+      "EndTime": 191.269
+    },
+    {
+      "TimeOffset": 191.445,
+      "Fret": 14,
+      "String": 3,
+      "HandFret": 12,
+      "EndTime": 191.445
+    },
+    {
+      "TimeOffset": 191.621,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "PullOff",
+      "HandFret": 12,
+      "EndTime": 191.621
+    },
+    {
+      "TimeOffset": 191.797,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 12,
+      "EndTime": 191.797
+    },
+    {
+      "TimeOffset": 191.973,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 12,
+      "EndTime": 191.973
+    },
+    {
+      "TimeOffset": 192.15,
+      "TimeLength": 2.378,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 12,
+      "EndTime": 194.528
+    },
+    {
+      "TimeOffset": 194.528,
+      "TimeLength": 0.176,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 12,
+      "EndTime": 194.704
+    },
+    {
+      "TimeOffset": 194.704,
+      "TimeLength": 0.176,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 12,
+      "SlideFret": 6,
+      "EndTime": 194.87999
+    },
+    {
+      "TimeOffset": 194.968,
+      "TimeLength": 2.643,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 197.61101
+    },
+    {
+      "TimeOffset": 197.787,
+      "TimeLength": 1.234,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 199.021
+    },
+    {
+      "TimeOffset": 199.197,
+      "TimeLength": 0.881,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 200.078
+    },
+    {
+      "TimeOffset": 200.254,
+      "TimeLength": 0.349,
+      "Fret": 0,
+      "String": 2,
+      "HandFret": 10,
+      "EndTime": 200.603
+    },
+    {
+      "TimeOffset": 201.311,
+      "TimeLength": 0.088,
+      "Fret": 10,
+      "String": 1,
+      "Techniques": "Slide",
+      "HandFret": 10,
+      "SlideFret": 12,
+      "EndTime": 201.399
+    },
+    {
+      "TimeOffset": 201.399,
+      "TimeLength": 0.441,
+      "Fret": 12,
+      "String": 1,
+      "Techniques": "Slide, Continued",
+      "HandFret": 12,
+      "SlideFret": 6,
+      "EndTime": 201.84
+    },
+    {
+      "TimeOffset": 202.016,
+      "TimeLength": 0.528,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 202.016,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 202.192,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 202.368,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 12,
+      "EndTime": 202.544
+    },
+    {
+      "TimeOffset": 202.72,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 12,
+      "EndTime": 203.24901
+    },
+    {
+      "TimeOffset": 203.425,
+      "TimeLength": 1.234,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 12,
+      "EndTime": 204.659
+    },
+    {
+      "TimeOffset": 204.835,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 12,
+      "EndTime": 204.835
+    },
+    {
+      "TimeOffset": 205.187,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 12,
+      "EndTime": 205.187
+    },
+    {
+      "TimeOffset": 205.539,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 12,
+      "EndTime": 205.539
+    },
+    {
+      "TimeOffset": 205.892,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 12,
+      "EndTime": 205.892
+    },
+    {
+      "TimeOffset": 206.068,
+      "TimeLength": 1.762,
+      "Fret": 14,
+      "String": 3,
+      "Techniques": "HammerOn, Vibrato",
+      "HandFret": 12,
+      "EndTime": 207.82999
+    },
+    {
+      "TimeOffset": 207.83,
+      "TimeLength": 0.352,
+      "Fret": 14,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 12,
+      "EndTime": 208.182
+    },
+    {
+      "TimeOffset": 208.358,
+      "TimeLength": 0.441,
+      "Fret": 12,
+      "String": 1,
+      "Techniques": "Slide",
+      "HandFret": 12,
+      "SlideFret": 3,
+      "EndTime": 208.799
+    },
+    {
+      "TimeOffset": 209.063,
+      "TimeLength": 1.232,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 210.295
+    },
+    {
+      "TimeOffset": 210.471,
+      "TimeLength": 0.881,
+      "Fret": 2,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 211.35199
+    },
+    {
+      "TimeOffset": 211.528,
+      "TimeLength": 2.993,
+      "Fret": 0,
+      "String": 0,
+      "HandFret": 2,
+      "EndTime": 214.521
+    },
+    {
+      "TimeOffset": 214.697,
+      "TimeLength": 1.936,
+      "Fret": 0,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 216.63301
+    },
+    {
+      "TimeOffset": 216.809,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 216.809
+    },
+    {
+      "TimeOffset": 217.162,
+      "Fret": 2,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 217.162
+    },
+    {
+      "TimeOffset": 217.514,
+      "TimeLength": 2.64,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 2,
+      "EndTime": 220.154
+    },
+    {
+      "TimeOffset": 220.331,
+      "TimeLength": 1.232,
+      "Fret": 0,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 221.56299
+    },
+    {
+      "TimeOffset": 221.739,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 221.739
+    },
+    {
+      "TimeOffset": 221.915,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 221.915
+    },
+    {
+      "TimeOffset": 222.091,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 222.619
+    },
+    {
+      "TimeOffset": 222.795,
+      "TimeLength": 0.529,
+      "Fret": 14,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 223.324
+    },
+    {
+      "TimeOffset": 223.5,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 223.5
+    },
+    {
+      "TimeOffset": 223.676,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 223.676
+    },
+    {
+      "TimeOffset": 223.852,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 224.38
+    },
+    {
+      "TimeOffset": 224.556,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 224.556
+    },
+    {
+      "TimeOffset": 224.732,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 224.732
+    },
+    {
+      "TimeOffset": 224.908,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 224.908
+    },
+    {
+      "TimeOffset": 225.26,
+      "Fret": 14,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 225.26
+    },
+    {
+      "TimeOffset": 225.436,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "PullOff",
+      "HandFret": 11,
+      "EndTime": 225.436
+    },
+    {
+      "TimeOffset": 225.612,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 225.612
+    },
+    {
+      "TimeOffset": 225.788,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 225.788
+    },
+    {
+      "TimeOffset": 225.964,
+      "TimeLength": 1.233,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 227.197
+    },
+    {
+      "TimeOffset": 227.373,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 227.373
+    },
+    {
+      "TimeOffset": 227.549,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 227.549
+    },
+    {
+      "TimeOffset": 227.725,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 228.253
+    },
+    {
+      "TimeOffset": 228.429,
+      "TimeLength": 1.585,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 230.014
+    },
+    {
+      "TimeOffset": 230.19,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 230.19,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 230.278,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 230.454,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 230.542,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 230.806
+    },
+    {
+      "TimeOffset": 230.894,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 230.894
+    },
+    {
+      "TimeOffset": 231.246,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 231.862
+    },
+    {
+      "TimeOffset": 231.95,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 231.95
+    },
+    {
+      "TimeOffset": 232.126,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 232.126
+    },
+    {
+      "TimeOffset": 232.302,
+      "TimeLength": 1.409,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 233.711
+    },
+    {
+      "TimeOffset": 233.711,
+      "TimeLength": 0.352,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 234.063
+    },
+    {
+      "TimeOffset": 234.063,
+      "TimeLength": 0.264,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 6,
+      "EndTime": 234.32701
+    },
+    {
+      "TimeOffset": 234.415,
+      "TimeLength": 0.528,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 1,
+      "EndTime": 234.943
+    },
+    {
+      "TimeOffset": 235.119,
+      "TimeLength": 0.528,
+      "Fret": 1,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 235.647
+    },
+    {
+      "TimeOffset": 235.823,
+      "TimeLength": 0.529,
+      "Fret": 2,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 236.352
+    },
+    {
+      "TimeOffset": 236.528,
+      "TimeLength": 1.232,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 237.76
+    },
+    {
+      "TimeOffset": 237.936,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 237.936
+    },
+    {
+      "TimeOffset": 238.112,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 238.112
+    },
+    {
+      "TimeOffset": 238.288,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 238.816
+    },
+    {
+      "TimeOffset": 238.993,
+      "TimeLength": 0.88,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 239.873
+    },
+    {
+      "TimeOffset": 240.049,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 240.049,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 240.137,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 240.489,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 240.577,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 240.665
+    },
+    {
+      "TimeOffset": 240.753,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 240.753,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 240.841,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 241.105,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 241.193,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 241.369
+    },
+    {
+      "TimeOffset": 241.457,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 241.457
+    },
+    {
+      "TimeOffset": 241.809,
+      "TimeLength": 1.054,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 241.809,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 242.426,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 242.514,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 242.822,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 242.863
+    },
+    {
+      "TimeOffset": 242.866,
+      "TimeLength": 1.232,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 244.09799
+    },
+    {
+      "TimeOffset": 244.098,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 244.626
+    },
+    {
+      "TimeOffset": 244.626,
+      "TimeLength": 0.264,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 6,
+      "EndTime": 244.89001
+    },
+    {
+      "TimeOffset": 244.978,
+      "TimeLength": 0.529,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 1,
+      "EndTime": 245.507
+    },
+    {
+      "TimeOffset": 245.683,
+      "TimeLength": 0.528,
+      "Fret": 1,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 246.211
+    },
+    {
+      "TimeOffset": 246.387,
+      "TimeLength": 0.528,
+      "Fret": 2,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 246.915
+    },
+    {
+      "TimeOffset": 247.091,
+      "TimeLength": 1.232,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 248.323
+    },
+    {
+      "TimeOffset": 248.5,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 248.5
+    },
+    {
+      "TimeOffset": 248.676,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 248.676
+    },
+    {
+      "TimeOffset": 248.852,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 249.38
+    },
+    {
+      "TimeOffset": 249.556,
+      "TimeLength": 0.88,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 250.436
+    },
+    {
+      "TimeOffset": 250.612,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 250.612,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 250.7,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 251.052,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 251.14,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 251.228
+    },
+    {
+      "TimeOffset": 251.316,
+      "TimeLength": 0.617,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 251.316,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 251.404,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 251.757,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 251.845,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 251.933
+    },
+    {
+      "TimeOffset": 252.021,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 252.021
+    },
+    {
+      "TimeOffset": 252.373,
+      "TimeLength": 1.053,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 252.373,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 252.989,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 253.077,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 253.385,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 253.426
+    },
+    {
+      "TimeOffset": 253.429,
+      "TimeLength": 1.233,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 254.662
+    },
+    {
+      "TimeOffset": 254.662,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 255.19
+    },
+    {
+      "TimeOffset": 255.19,
+      "TimeLength": 0.264,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 6,
+      "EndTime": 255.45401
+    },
+    {
+      "TimeOffset": 255.542,
+      "TimeLength": 0.528,
+      "Fret": 3,
+      "String": 1,
+      "HandFret": 1,
+      "EndTime": 256.07
+    },
+    {
+      "TimeOffset": 256.246,
+      "TimeLength": 0.528,
+      "Fret": 1,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 256.77402
+    },
+    {
+      "TimeOffset": 256.95,
+      "TimeLength": 0.528,
+      "Fret": 2,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 257.47803
+    },
+    {
+      "TimeOffset": 257.654,
+      "TimeLength": 1.233,
+      "Fret": 3,
+      "String": 0,
+      "HandFret": 1,
+      "EndTime": 258.887
+    },
+    {
+      "TimeOffset": 259.063,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 259.063
+    },
+    {
+      "TimeOffset": 259.239,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 259.239
+    },
+    {
+      "TimeOffset": 259.415,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 259.94302
+    },
+    {
+      "TimeOffset": 260.119,
+      "TimeLength": 0.881,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 261
+    },
+    {
+      "TimeOffset": 261.176,
+      "TimeLength": 0.528,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 261.176,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 261.264,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 261.704
+    },
+    {
+      "TimeOffset": 261.88,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 261.88,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 261.968,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 262.232,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 262.32,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 262.496
+    },
+    {
+      "TimeOffset": 262.584,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 262.584
+    },
+    {
+      "TimeOffset": 262.936,
+      "TimeLength": 1.053,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 262.936,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 263.552,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 263.64,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 263.948,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 263.989
+    },
+    {
+      "TimeOffset": 263.992,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 264.521
+    },
+    {
+      "TimeOffset": 264.697,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 264.697,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 264.785,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 265.049,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 265.137,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 265.313
+    },
+    {
+      "TimeOffset": 265.401,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 265.401
+    },
+    {
+      "TimeOffset": 265.753,
+      "TimeLength": 1.053,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 265.753,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 266.369,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 266.457,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 266.765,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 266.806
+    },
+    {
+      "TimeOffset": 266.809,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 267.33798
+    },
+    {
+      "TimeOffset": 267.514,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 267.514,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 267.602,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 267.866,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 267.954,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 268.13
+    },
+    {
+      "TimeOffset": 268.218,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 268.218
+    },
+    {
+      "TimeOffset": 268.57,
+      "TimeLength": 1.053,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 268.57,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 269.186,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 269.274,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 269.582,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 269.62302
+    },
+    {
+      "TimeOffset": 269.626,
+      "TimeLength": 0.881,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 270.50702
+    },
+    {
+      "TimeOffset": 270.683,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 270.683
+    },
+    {
+      "TimeOffset": 271.035,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 271.035
+    },
+    {
+      "TimeOffset": 271.387,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 271.387
+    },
+    {
+      "TimeOffset": 271.739,
+      "TimeLength": 0.264,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 272.00302
+    },
+    {
+      "TimeOffset": 272.003,
+      "TimeLength": 0.088,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 11,
+      "EndTime": 272.091
+    },
+    {
+      "TimeOffset": 272.091,
+      "TimeLength": 0.349,
+      "Fret": 11,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 272.44
+    },
+    {
+      "TimeOffset": 272.443,
+      "TimeLength": 0.264,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 272.707
+    },
+    {
+      "TimeOffset": 272.707,
+      "TimeLength": 0.088,
+      "Fret": 11,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 9,
+      "EndTime": 272.795
+    },
+    {
+      "TimeOffset": 272.795,
+      "TimeLength": 0.348,
+      "Fret": 9,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 7,
+      "EndTime": 273.143
+    },
+    {
+      "TimeOffset": 273.147,
+      "TimeLength": 0.265,
+      "Fret": 9,
+      "String": 3,
+      "HandFret": 7,
+      "EndTime": 273.41202
+    },
+    {
+      "TimeOffset": 273.412,
+      "TimeLength": 0.088,
+      "Fret": 9,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 7,
+      "SlideFret": 7,
+      "EndTime": 273.5
+    },
+    {
+      "TimeOffset": 273.5,
+      "TimeLength": 0.349,
+      "Fret": 7,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 7,
+      "EndTime": 273.849
+    },
+    {
+      "TimeOffset": 273.852,
+      "Fret": 7,
+      "String": 3,
+      "HandFret": 7,
+      "EndTime": 273.852
+    },
+    {
+      "TimeOffset": 274.204,
+      "Fret": 7,
+      "String": 3,
+      "HandFret": 7,
+      "EndTime": 274.204
+    },
+    {
+      "TimeOffset": 274.556,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 274.556
+    },
+    {
+      "TimeOffset": 274.644,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 274.644
+    },
+    {
+      "TimeOffset": 274.908,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 274.908
+    },
+    {
+      "TimeOffset": 275.26,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 275.26
+    },
+    {
+      "TimeOffset": 275.613,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 275.613
+    },
+    {
+      "TimeOffset": 275.965,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 275.965
+    },
+    {
+      "TimeOffset": 276.317,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 276.84598
+    },
+    {
+      "TimeOffset": 277.022,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 277.55002
+    },
+    {
+      "TimeOffset": 277.55,
+      "TimeLength": 0.705,
+      "Fret": 12,
+      "String": 2,
+      "Techniques": "Vibrato, Continued",
+      "HandFret": 11,
+      "EndTime": 278.25497
+    },
+    {
+      "TimeOffset": 278.255,
+      "TimeLength": 0.352,
+      "Fret": 12,
+      "String": 2,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 278.607
+    },
+    {
+      "TimeOffset": 278.783,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 278.783
+    },
+    {
+      "TimeOffset": 278.959,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 278.959
+    },
+    {
+      "TimeOffset": 279.136,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 279.136
+    },
+    {
+      "TimeOffset": 279.488,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 279.488
+    },
+    {
+      "TimeOffset": 279.664,
+      "TimeLength": 0.002,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 279.66602
+    },
+    {
+      "TimeOffset": 279.84,
+      "TimeLength": 0.002,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 279.842
+    },
+    {
+      "TimeOffset": 280.192,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 280.192
+    },
+    {
+      "TimeOffset": 280.28,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 280.28
+    },
+    {
+      "TimeOffset": 280.545,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 280.545
+    },
+    {
+      "TimeOffset": 280.897,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 280.897
+    },
+    {
+      "TimeOffset": 281.249,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 281.77798
+    },
+    {
+      "TimeOffset": 281.954,
+      "Fret": 14,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 281.954
+    },
+    {
+      "TimeOffset": 282.306,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 282.306
+    },
+    {
+      "TimeOffset": 282.658,
+      "TimeLength": 1.057,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 283.715
+    },
+    {
+      "TimeOffset": 283.715,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 284.244
+    },
+    {
+      "TimeOffset": 284.42,
+      "TimeLength": 0.264,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 284.42,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 284.508,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 284.68402
+    },
+    {
+      "TimeOffset": 284.772,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 284.772
+    },
+    {
+      "TimeOffset": 284.948,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 284.948
+    },
+    {
+      "TimeOffset": 285.124,
+      "TimeLength": 0.265,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 285.124,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 285.212,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 285.389
+    },
+    {
+      "TimeOffset": 285.477,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 285.477
+    },
+    {
+      "TimeOffset": 285.829,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 285.829
+    },
+    {
+      "TimeOffset": 285.917,
+      "TimeLength": 0.002,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 285.919
+    },
+    {
+      "TimeOffset": 286.181,
+      "TimeLength": 0.002,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 286.183
+    },
+    {
+      "TimeOffset": 286.533,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 286.533
+    },
+    {
+      "TimeOffset": 286.886,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 286.886
+    },
+    {
+      "TimeOffset": 287.238,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 287.238
+    },
+    {
+      "TimeOffset": 287.59,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 288.119
+    },
+    {
+      "TimeOffset": 288.295,
+      "TimeLength": 0.528,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 288.82303
+    },
+    {
+      "TimeOffset": 288.999,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 288.999
+    },
+    {
+      "TimeOffset": 289.352,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 289.352
+    },
+    {
+      "TimeOffset": 289.704,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 289.704
+    },
+    {
+      "TimeOffset": 290.056,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 290.056
+    },
+    {
+      "TimeOffset": 290.232,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 290.232
+    },
+    {
+      "TimeOffset": 290.409,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 290.409
+    },
+    {
+      "TimeOffset": 290.761,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 290.761
+    },
+    {
+      "TimeOffset": 290.937,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 290.937
+    },
+    {
+      "TimeOffset": 291.113,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 291.113
+    },
+    {
+      "TimeOffset": 291.465,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 291.465
+    },
+    {
+      "TimeOffset": 291.818,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 291.818
+    },
+    {
+      "TimeOffset": 292.17,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 292.17
+    },
+    {
+      "TimeOffset": 292.522,
+      "TimeLength": 0.002,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 292.52402
+    },
+    {
+      "TimeOffset": 292.875,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 292.875
+    },
+    {
+      "TimeOffset": 293.227,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 293.227
+    },
+    {
+      "TimeOffset": 293.579,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 293.579
+    },
+    {
+      "TimeOffset": 293.931,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 293.931
+    },
+    {
+      "TimeOffset": 294.284,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 294.284
+    },
+    {
+      "TimeOffset": 294.636,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 294.636
+    },
+    {
+      "TimeOffset": 294.988,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 294.988
+    },
+    {
+      "TimeOffset": 295.341,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 295.341
+    },
+    {
+      "TimeOffset": 295.693,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 295.693
+    },
+    {
+      "TimeOffset": 296.045,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 296.045
+    },
+    {
+      "TimeOffset": 296.397,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 296.397
+    },
+    {
+      "TimeOffset": 296.75,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 296.75
+    },
+    {
+      "TimeOffset": 297.102,
+      "TimeLength": 0.264,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 297.366
+    },
+    {
+      "TimeOffset": 297.366,
+      "TimeLength": 0.088,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 11,
+      "EndTime": 297.454
+    },
+    {
+      "TimeOffset": 297.454,
+      "TimeLength": 0.349,
+      "Fret": 11,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 297.803
+    },
+    {
+      "TimeOffset": 297.806,
+      "TimeLength": 0.265,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 298.071
+    },
+    {
+      "TimeOffset": 298.071,
+      "TimeLength": 0.088,
+      "Fret": 11,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 9,
+      "EndTime": 298.15903
+    },
+    {
+      "TimeOffset": 298.159,
+      "TimeLength": 0.348,
+      "Fret": 9,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 7,
+      "EndTime": 298.507
+    },
+    {
+      "TimeOffset": 298.511,
+      "TimeLength": 0.264,
+      "Fret": 9,
+      "String": 3,
+      "HandFret": 7,
+      "EndTime": 298.775
+    },
+    {
+      "TimeOffset": 298.775,
+      "TimeLength": 0.088,
+      "Fret": 9,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 7,
+      "SlideFret": 7,
+      "EndTime": 298.863
+    },
+    {
+      "TimeOffset": 298.863,
+      "TimeLength": 0.35,
+      "Fret": 7,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 7,
+      "EndTime": 299.213
+    },
+    {
+      "TimeOffset": 299.216,
+      "TimeLength": 0.264,
+      "Fret": 7,
+      "String": 3,
+      "HandFret": 7,
+      "EndTime": 299.48
+    },
+    {
+      "TimeOffset": 299.48,
+      "TimeLength": 0.088,
+      "Fret": 7,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 7,
+      "SlideFret": 5,
+      "EndTime": 299.56802
+    },
+    {
+      "TimeOffset": 299.568,
+      "TimeLength": 0.349,
+      "Fret": 5,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 2,
+      "EndTime": 299.917
+    },
+    {
+      "TimeOffset": 299.92,
+      "TimeLength": 0.264,
+      "Fret": 5,
+      "String": 3,
+      "HandFret": 2,
+      "EndTime": 300.18402
+    },
+    {
+      "TimeOffset": 300.184,
+      "TimeLength": 0.088,
+      "Fret": 5,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 2,
+      "SlideFret": 4,
+      "EndTime": 300.272
+    },
+    {
+      "TimeOffset": 300.272,
+      "TimeLength": 0.35,
+      "Fret": 4,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 2,
+      "EndTime": 300.622
+    },
+    {
+      "TimeOffset": 300.625,
+      "TimeLength": 0.264,
+      "Fret": 4,
+      "String": 3,
+      "HandFret": 2,
+      "EndTime": 300.889
+    },
+    {
+      "TimeOffset": 300.889,
+      "TimeLength": 0.088,
+      "Fret": 4,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 2,
+      "SlideFret": 2,
+      "EndTime": 300.97702
+    },
+    {
+      "TimeOffset": 300.977,
+      "TimeLength": 0.349,
+      "Fret": 2,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 2,
+      "EndTime": 301.326
+    },
+    {
+      "TimeOffset": 301.329,
+      "Fret": 2,
+      "String": 3,
+      "HandFret": 2,
+      "EndTime": 301.329
+    },
+    {
+      "TimeOffset": 301.682,
+      "Fret": 4,
+      "String": 3,
+      "HandFret": 2,
+      "EndTime": 301.682
+    },
+    {
+      "TimeOffset": 302.034,
+      "Fret": 2,
+      "String": 3,
+      "HandFret": 2,
+      "EndTime": 302.034
+    },
+    {
+      "TimeOffset": 302.386,
+      "Fret": 0,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 302.386
+    },
+    {
+      "TimeOffset": 302.738,
+      "TimeLength": 1.233,
+      "Fret": 0,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 303.971
+    },
+    {
+      "TimeOffset": 304.148,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 304.148
+    },
+    {
+      "TimeOffset": 304.324,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 304.324
+    },
+    {
+      "TimeOffset": 304.5,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 305.028
+    },
+    {
+      "TimeOffset": 305.204,
+      "TimeLength": 1.586,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 306.79
+    },
+    {
+      "TimeOffset": 306.966,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 306.966,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 307.054,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 307.406,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 307.494,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 307.582
+    },
+    {
+      "TimeOffset": 307.67,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 307.67
+    },
+    {
+      "TimeOffset": 308.023,
+      "TimeLength": 1.054,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 308.023,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 308.639,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 308.727,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 309.035,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 309.077
+    },
+    {
+      "TimeOffset": 309.08,
+      "TimeLength": 1.056,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 310.136
+    },
+    {
+      "TimeOffset": 310.136,
+      "TimeLength": 0.704,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 310.84
+    },
+    {
+      "TimeOffset": 311.193,
+      "TimeLength": 0.176,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 311.193,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 311.369
+    },
+    {
+      "TimeOffset": 311.545,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 311.545
+    },
+    {
+      "TimeOffset": 311.722,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 311.722
+    },
+    {
+      "TimeOffset": 311.898,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 311.898
+    },
+    {
+      "TimeOffset": 312.25,
+      "TimeLength": 0.176,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 312.25,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 312.426
+    },
+    {
+      "TimeOffset": 312.602,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 312.602
+    },
+    {
+      "TimeOffset": 312.778,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 312.778
+    },
+    {
+      "TimeOffset": 312.955,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 312.955
+    },
+    {
+      "TimeOffset": 313.307,
+      "TimeLength": 0.704,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 314.01102
+    },
+    {
+      "TimeOffset": 314.011,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato, Continued",
+      "HandFret": 11,
+      "EndTime": 314.53998
+    },
+    {
+      "TimeOffset": 314.716,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 314.716
+    },
+    {
+      "TimeOffset": 314.892,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 314.892
+    },
+    {
+      "TimeOffset": 315.068,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 315.597
+    },
+    {
+      "TimeOffset": 315.773,
+      "TimeLength": 1.585,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 317.358
+    },
+    {
+      "TimeOffset": 317.534,
+      "TimeLength": 0.617,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 317.534,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 317.622,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 317.975,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 318.063,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 318.151
+    },
+    {
+      "TimeOffset": 318.239,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 318.239
+    },
+    {
+      "TimeOffset": 318.591,
+      "TimeLength": 1.054,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 318.591,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 319.208,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 319.296,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 319.604,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 319.645
+    },
+    {
+      "TimeOffset": 319.648,
+      "TimeLength": 1.409,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 321.057
+    },
+    {
+      "TimeOffset": 321.057,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 321.586
+    },
+    {
+      "TimeOffset": 321.762,
+      "TimeLength": 0.176,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 321.762,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 321.938
+    },
+    {
+      "TimeOffset": 322.114,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 322.114
+    },
+    {
+      "TimeOffset": 322.29,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 322.29
+    },
+    {
+      "TimeOffset": 322.466,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 322.466
+    },
+    {
+      "TimeOffset": 322.819,
+      "TimeLength": 0.176,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 322.819,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 322.995
+    },
+    {
+      "TimeOffset": 323.171,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 323.171
+    },
+    {
+      "TimeOffset": 323.347,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 323.347
+    },
+    {
+      "TimeOffset": 323.523,
+      "TimeLength": 0.002,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 323.52502
+    },
+    {
+      "TimeOffset": 323.875,
+      "TimeLength": 1.233,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 325.108
+    },
+    {
+      "TimeOffset": 325.284,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 325.284
+    },
+    {
+      "TimeOffset": 325.461,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 325.461
+    },
+    {
+      "TimeOffset": 325.637,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 326.165
+    },
+    {
+      "TimeOffset": 326.341,
+      "TimeLength": 1.586,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 327.927
+    },
+    {
+      "TimeOffset": 328.103,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 328.103,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 328.191,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 328.543,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 328.631,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 328.719
+    },
+    {
+      "TimeOffset": 328.807,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 328.807
+    },
+    {
+      "TimeOffset": 329.16,
+      "TimeLength": 1.053,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 329.16,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 329.776,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 329.864,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 330.172,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 330.213
+    },
+    {
+      "TimeOffset": 330.216,
+      "TimeLength": 1.41,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 331.626
+    },
+    {
+      "TimeOffset": 331.626,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 332.15402
+    },
+    {
+      "TimeOffset": 332.33,
+      "TimeLength": 0.176,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 332.33,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 332.50598
+    },
+    {
+      "TimeOffset": 332.682,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 332.682
+    },
+    {
+      "TimeOffset": 332.859,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 332.859
+    },
+    {
+      "TimeOffset": 333.035,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 333.035
+    },
+    {
+      "TimeOffset": 333.387,
+      "TimeLength": 0.176,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 333.387,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 333.563
+    },
+    {
+      "TimeOffset": 333.739,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 333.739
+    },
+    {
+      "TimeOffset": 333.915,
+      "Fret": 14,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 333.915
+    },
+    {
+      "TimeOffset": 334.092,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 334.092
+    },
+    {
+      "TimeOffset": 334.444,
+      "TimeLength": 1.233,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Vibrato",
+      "HandFret": 11,
+      "EndTime": 335.677
+    },
+    {
+      "TimeOffset": 335.853,
+      "Fret": 12,
+      "String": 2,
+      "HandFret": 11,
+      "EndTime": 335.853
+    },
+    {
+      "TimeOffset": 336.029,
+      "TimeLength": 0.002,
+      "Fret": 14,
+      "String": 2,
+      "Techniques": "HammerOn",
+      "HandFret": 11,
+      "EndTime": 336.031
+    },
+    {
+      "TimeOffset": 336.205,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 336.73398
+    },
+    {
+      "TimeOffset": 336.91,
+      "TimeLength": 0.88,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 337.79
+    },
+    {
+      "TimeOffset": 337.967,
+      "TimeLength": 0.528,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 337.967,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 338.231,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 338.49503
+    },
+    {
+      "TimeOffset": 338.671,
+      "TimeLength": 0.617,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 338.671,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 338.759,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 339.023,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 339.112,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 339.288
+    },
+    {
+      "TimeOffset": 339.376,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 339.376
+    },
+    {
+      "TimeOffset": 339.728,
+      "TimeLength": 1.054,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 339.728,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 340.345,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 340.433,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 340.741,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 340.78198
+    },
+    {
+      "TimeOffset": 340.785,
+      "TimeLength": 0.528,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 341.31302
+    },
+    {
+      "TimeOffset": 341.489,
+      "TimeLength": 0.617,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 341.489,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 341.578,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 341.842,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 341.93,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 342.10602
+    },
+    {
+      "TimeOffset": 342.194,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 342.194
+    },
+    {
+      "TimeOffset": 342.546,
+      "TimeLength": 1.054,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 342.546,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 343.163,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 343.251,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 343.559,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 343.59998
+    },
+    {
+      "TimeOffset": 343.603,
+      "TimeLength": 0.529,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 344.132
+    },
+    {
+      "TimeOffset": 344.308,
+      "TimeLength": 0.616,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 344.308,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 344.396,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 344.66,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 344.748,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 344.924
+    },
+    {
+      "TimeOffset": 345.012,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 345.012
+    },
+    {
+      "TimeOffset": 345.365,
+      "TimeLength": 1.053,
+      "Fret": 14,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 345.365,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 345.981,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 346.069,
+          "Cents": 200
+        },
+        {
+          "TimeOffset": 346.377,
+          "Cents": 0
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 11,
+      "EndTime": 346.418
+    },
+    {
+      "TimeOffset": 346.421,
+      "TimeLength": 0.265,
+      "Fret": 12,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 346.686
+    },
+    {
+      "TimeOffset": 346.686,
+      "TimeLength": 0.088,
+      "Fret": 12,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 11,
+      "EndTime": 346.77402
+    },
+    {
+      "TimeOffset": 346.774,
+      "TimeLength": 0.349,
+      "Fret": 11,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 11,
+      "EndTime": 347.123
+    },
+    {
+      "TimeOffset": 347.126,
+      "TimeLength": 0.264,
+      "Fret": 11,
+      "String": 3,
+      "HandFret": 11,
+      "EndTime": 347.39
+    },
+    {
+      "TimeOffset": 347.39,
+      "TimeLength": 0.088,
+      "Fret": 11,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 11,
+      "SlideFret": 9,
+      "EndTime": 347.47803
+    },
+    {
+      "TimeOffset": 347.478,
+      "TimeLength": 0.349,
+      "Fret": 9,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 7,
+      "EndTime": 347.827
+    },
+    {
+      "TimeOffset": 347.831,
+      "TimeLength": 0.264,
+      "Fret": 9,
+      "String": 3,
+      "HandFret": 7,
+      "EndTime": 348.095
+    },
+    {
+      "TimeOffset": 348.095,
+      "TimeLength": 0.088,
+      "Fret": 9,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 7,
+      "SlideFret": 7,
+      "EndTime": 348.183
+    },
+    {
+      "TimeOffset": 348.183,
+      "TimeLength": 0.349,
+      "Fret": 7,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 7,
+      "EndTime": 348.532
+    },
+    {
+      "TimeOffset": 348.535,
+      "TimeLength": 0.264,
+      "Fret": 7,
+      "String": 3,
+      "HandFret": 7,
+      "EndTime": 348.799
+    },
+    {
+      "TimeOffset": 348.799,
+      "TimeLength": 0.088,
+      "Fret": 7,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 7,
+      "SlideFret": 5,
+      "EndTime": 348.88702
+    },
+    {
+      "TimeOffset": 348.887,
+      "TimeLength": 0.35,
+      "Fret": 5,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 2,
+      "EndTime": 349.237
+    },
+    {
+      "TimeOffset": 349.24,
+      "TimeLength": 0.264,
+      "Fret": 5,
+      "String": 3,
+      "HandFret": 2,
+      "EndTime": 349.504
+    },
+    {
+      "TimeOffset": 349.504,
+      "TimeLength": 0.088,
+      "Fret": 5,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 2,
+      "SlideFret": 4,
+      "EndTime": 349.592
+    },
+    {
+      "TimeOffset": 349.592,
+      "TimeLength": 0.349,
+      "Fret": 4,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 2,
+      "EndTime": 349.941
+    },
+    {
+      "TimeOffset": 349.944,
+      "TimeLength": 0.264,
+      "Fret": 4,
+      "String": 3,
+      "HandFret": 2,
+      "EndTime": 350.208
+    },
+    {
+      "TimeOffset": 350.208,
+      "TimeLength": 0.089,
+      "Fret": 4,
+      "String": 3,
+      "Techniques": "Slide, Continued",
+      "HandFret": 2,
+      "SlideFret": 2,
+      "EndTime": 350.297
+    },
+    {
+      "TimeOffset": 350.297,
+      "TimeLength": 0.349,
+      "Fret": 2,
+      "String": 3,
+      "Techniques": "Continued",
+      "HandFret": 2,
+      "EndTime": 350.646
+    },
+    {
+      "TimeOffset": 350.649,
+      "Fret": 2,
+      "String": 3,
+      "HandFret": 2,
+      "EndTime": 350.649
+    },
+    {
+      "TimeOffset": 351.001,
+      "Fret": 0,
+      "String": 3,
+      "HandFret": 2,
+      "EndTime": 351.001
+    },
+    {
+      "TimeOffset": 351.353,
+      "TimeLength": 9.775,
+      "Fret": 2,
+      "String": 3,
+      "CentsOffsets": [
+        {
+          "TimeOffset": 351.353,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 352.058,
+          "Cents": 0
+        },
+        {
+          "TimeOffset": 352.762,
+          "Cents": 200
+        }
+      ],
+      "Techniques": "Bend",
+      "HandFret": 2,
+      "EndTime": 361.128
+    }
+  ]
+}

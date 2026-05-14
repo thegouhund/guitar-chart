@@ -1,0 +1,13 @@
+{
+  "Presets": {
+    "FullDistortion": {
+      "NoiseGate":  { "Enabled": true,  "Threshold": 0.04, "HoldTime": 0.1 },
+      "Distortion": { "Enabled": true,  "Gain": 50.0, "OutputLevel": 0.4, "ToneFilter": 0.3 },
+      "Chorus":     { "Enabled": true,  "Rate": 0.8, "DepthMs": 1.5, "Mix": 0.15 },
+      "Delay":      { "Enabled": true,  "DelayTimeMs": 20.0, "Feedback": 0.1, "Mix": 0.1 }
+    }
+  },
+  "Timeline": [
+    { "Time": 0.0, "Preset": "FullDistortion" }
+  ]
+}
