@@ -1,0 +1,57 @@
+{
+  "SongName": "All Around The World",
+  "SongYear": 1997,
+  "SongLengthSeconds": 564.199,
+  "ArtistName": "Oasis",
+  "AlbumName": "Be Here Now",
+  "InstrumentParts": [
+    {
+      "InstrumentName": "bass",
+      "InstrumentType": "BassGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 2.2
+    },
+    {
+      "InstrumentName": "rhythm",
+      "InstrumentType": "RhythmGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 1.5
+    },
+    {
+      "InstrumentName": "lead",
+      "InstrumentType": "LeadGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 2.5
+    }
+  ]
+}

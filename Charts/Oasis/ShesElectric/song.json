@@ -1,0 +1,57 @@
+{
+  "SongName": "She\u0027s Electric",
+  "SongYear": 1995,
+  "SongLengthSeconds": 223.567,
+  "ArtistName": "Oasis",
+  "AlbumName": "(What\u0027s The Story) Morning Glory?",
+  "InstrumentParts": [
+    {
+      "InstrumentName": "lead",
+      "InstrumentType": "LeadGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 1.4
+    },
+    {
+      "InstrumentName": "rhythm",
+      "InstrumentType": "RhythmGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 2.1
+    },
+    {
+      "InstrumentName": "bass",
+      "InstrumentType": "BassGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 2.3
+    }
+  ]
+}

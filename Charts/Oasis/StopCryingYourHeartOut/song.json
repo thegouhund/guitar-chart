@@ -1,0 +1,62 @@
+{
+  "SongName": "Stop Crying Your Heart Out",
+  "SongYear": 2002,
+  "SongLengthSeconds": 308.632,
+  "ArtistName": "Oasis",
+  "AlbumName": "Heathen Chemistry",
+  "InstrumentParts": [
+    {
+      "InstrumentName": "bass",
+      "InstrumentType": "BassGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 4.8
+    },
+    {
+      "InstrumentName": "lead",
+      "InstrumentType": "LeadGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 3.7
+    },
+    {
+      "InstrumentName": "rhythm",
+      "InstrumentType": "RhythmGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 1.7
+    },
+    {
+      "InstrumentName": "vocals",
+      "InstrumentType": "Vocals",
+      "CapoFret": 0
+    }
+  ]
+}

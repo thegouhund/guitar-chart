@@ -1,0 +1,41 @@
+{
+  "SongName": "The Masterplan",
+  "SongYear": 1998,
+  "SongLengthSeconds": 322.799,
+  "ArtistName": "Oasis",
+  "AlbumName": "The Masterplan",
+  "InstrumentParts": [
+    {
+      "InstrumentName": "lead",
+      "InstrumentType": "LeadGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 1.8
+    },
+    {
+      "InstrumentName": "bass",
+      "InstrumentType": "BassGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 5
+    }
+  ]
+}

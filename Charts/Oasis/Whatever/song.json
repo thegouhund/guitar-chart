@@ -1,0 +1,78 @@
+{
+  "SongName": "Whatever",
+  "SongYear": 1994,
+  "SongLengthSeconds": 385.484,
+  "ArtistName": "Oasis",
+  "AlbumName": "Definitely Maybe",
+  "InstrumentParts": [
+    {
+      "InstrumentName": "bass",
+      "InstrumentType": "BassGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 0.4
+    },
+    {
+      "InstrumentName": "lead",
+      "InstrumentType": "LeadGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 0.8
+    },
+    {
+      "InstrumentName": "lead2",
+      "InstrumentType": "LeadGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 0.8
+    },
+    {
+      "InstrumentName": "vocals",
+      "InstrumentType": "Vocals",
+      "CapoFret": 0
+    },
+    {
+      "InstrumentName": "rhythm",
+      "InstrumentType": "RhythmGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 0.8
+    }
+  ]
+}

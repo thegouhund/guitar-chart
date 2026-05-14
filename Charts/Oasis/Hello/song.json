@@ -1,0 +1,62 @@
+{
+  "SongName": "Hello",
+  "SongYear": 1995,
+  "SongLengthSeconds": 203.909,
+  "ArtistName": "Oasis",
+  "AlbumName": "(What\u0027s The Story) Morning Glory?",
+  "InstrumentParts": [
+    {
+      "InstrumentName": "bass",
+      "InstrumentType": "BassGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 1.8
+    },
+    {
+      "InstrumentName": "lead",
+      "InstrumentType": "LeadGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 5
+    },
+    {
+      "InstrumentName": "rhythm",
+      "InstrumentType": "RhythmGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 3.5
+    },
+    {
+      "InstrumentName": "vocals",
+      "InstrumentType": "Vocals",
+      "CapoFret": 0
+    }
+  ]
+}

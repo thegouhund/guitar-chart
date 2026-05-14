@@ -1,0 +1,63 @@
+{
+  "SongName": "Hey Now!",
+  "SongYear": 1995,
+  "SongLengthSeconds": 345.799,
+  "ArtistName": "Oasis",
+  "AlbumName": "(What\u0027s The Story) Morning Glory?",
+  "A440CentsOffset": 31,
+  "InstrumentParts": [
+    {
+      "InstrumentName": "bass",
+      "InstrumentType": "BassGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 1.7
+    },
+    {
+      "InstrumentName": "rhythm",
+      "InstrumentType": "RhythmGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 2.2
+    },
+    {
+      "InstrumentName": "lead",
+      "InstrumentType": "LeadGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 3.7
+    },
+    {
+      "InstrumentName": "vocals",
+      "InstrumentType": "Vocals",
+      "CapoFret": 0
+    }
+  ]
+}

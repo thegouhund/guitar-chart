@@ -1,0 +1,2138 @@
+{
+  "Sections": [],
+  "Beats": [
+    {
+      "TimeOffset": 0,
+      "IsMeasure": true
+    },
+    {
+      "TimeOffset": 0.026,
+      "EndTime": 0.026
+    },
+    {
+      "TimeOffset": 0.613,
+      "EndTime": 0.613
+    },
+    {
+      "TimeOffset": 1.2,
+      "EndTime": 1.2
+    },
+    {
+      "TimeOffset": 1.787,
+      "IsMeasure": true,
+      "EndTime": 1.787
+    },
+    {
+      "TimeOffset": 2.374,
+      "EndTime": 2.374
+    },
+    {
+      "TimeOffset": 2.96,
+      "EndTime": 2.96
+    },
+    {
+      "TimeOffset": 3.547,
+      "EndTime": 3.547
+    },
+    {
+      "TimeOffset": 4.134,
+      "IsMeasure": true,
+      "EndTime": 4.134
+    },
+    {
+      "TimeOffset": 4.721,
+      "EndTime": 4.721
+    },
+    {
+      "TimeOffset": 5.308,
+      "EndTime": 5.308
+    },
+    {
+      "TimeOffset": 5.895,
+      "EndTime": 5.895
+    },
+    {
+      "TimeOffset": 6.481,
+      "IsMeasure": true,
+      "EndTime": 6.481
+    },
+    {
+      "TimeOffset": 7.068,
+      "EndTime": 7.068
+    },
+    {
+      "TimeOffset": 7.655,
+      "EndTime": 7.655
+    },
+    {
+      "TimeOffset": 8.242,
+      "EndTime": 8.242
+    },
+    {
+      "TimeOffset": 8.829,
+      "IsMeasure": true,
+      "EndTime": 8.829
+    },
+    {
+      "TimeOffset": 9.415,
+      "EndTime": 9.415
+    },
+    {
+      "TimeOffset": 10.002,
+      "EndTime": 10.002
+    },
+    {
+      "TimeOffset": 10.589,
+      "EndTime": 10.589
+    },
+    {
+      "TimeOffset": 11.176,
+      "IsMeasure": true,
+      "EndTime": 11.176
+    },
+    {
+      "TimeOffset": 11.763,
+      "EndTime": 11.763
+    },
+    {
+      "TimeOffset": 12.35,
+      "EndTime": 12.35
+    },
+    {
+      "TimeOffset": 12.936,
+      "EndTime": 12.936
+    },
+    {
+      "TimeOffset": 13.513,
+      "IsMeasure": true,
+      "EndTime": 13.513
+    },
+    {
+      "TimeOffset": 14.09,
+      "EndTime": 14.09
+    },
+    {
+      "TimeOffset": 14.667,
+      "EndTime": 14.667
+    },
+    {
+      "TimeOffset": 15.244,
+      "EndTime": 15.244
+    },
+    {
+      "TimeOffset": 15.82,
+      "IsMeasure": true,
+      "EndTime": 15.82
+    },
+    {
+      "TimeOffset": 16.397,
+      "EndTime": 16.397
+    },
+    {
+      "TimeOffset": 16.974,
+      "EndTime": 16.974
+    },
+    {
+      "TimeOffset": 17.551,
+      "EndTime": 17.551
+    },
+    {
+      "TimeOffset": 18.103,
+      "IsMeasure": true,
+      "EndTime": 18.103
+    },
+    {
+      "TimeOffset": 18.655,
+      "EndTime": 18.655
+    },
+    {
+      "TimeOffset": 19.206,
+      "EndTime": 19.206
+    },
+    {
+      "TimeOffset": 19.758,
+      "EndTime": 19.758
+    },
+    {
+      "TimeOffset": 20.31,
+      "IsMeasure": true,
+      "EndTime": 20.31
+    },
+    {
+      "TimeOffset": 20.862,
+      "EndTime": 20.862
+    },
+    {
+      "TimeOffset": 21.414,
+      "EndTime": 21.414
+    },
+    {
+      "TimeOffset": 21.965,
+      "EndTime": 21.965
+    },
+    {
+      "TimeOffset": 22.519,
+      "IsMeasure": true,
+      "EndTime": 22.519
+    },
+    {
+      "TimeOffset": 23.073,
+      "EndTime": 23.073
+    },
+    {
+      "TimeOffset": 23.626,
+      "EndTime": 23.626
+    },
+    {
+      "TimeOffset": 24.18,
+      "EndTime": 24.18
+    },
+    {
+      "TimeOffset": 24.734,
+      "IsMeasure": true,
+      "EndTime": 24.734
+    },
+    {
+      "TimeOffset": 25.288,
+      "EndTime": 25.288
+    },
+    {
+      "TimeOffset": 25.841,
+      "EndTime": 25.841
+    },
+    {
+      "TimeOffset": 26.395,
+      "EndTime": 26.395
+    },
+    {
+      "TimeOffset": 26.949,
+      "IsMeasure": true,
+      "EndTime": 26.949
+    },
+    {
+      "TimeOffset": 27.502,
+      "EndTime": 27.502
+    },
+    {
+      "TimeOffset": 28.056,
+      "EndTime": 28.056
+    },
+    {
+      "TimeOffset": 28.61,
+      "EndTime": 28.61
+    },
+    {
+      "TimeOffset": 29.163,
+      "IsMeasure": true,
+      "EndTime": 29.163
+    },
+    {
+      "TimeOffset": 29.717,
+      "EndTime": 29.717
+    },
+    {
+      "TimeOffset": 30.271,
+      "EndTime": 30.271
+    },
+    {
+      "TimeOffset": 30.824,
+      "EndTime": 30.824
+    },
+    {
+      "TimeOffset": 31.378,
+      "IsMeasure": true,
+      "EndTime": 31.378
+    },
+    {
+      "TimeOffset": 31.932,
+      "EndTime": 31.932
+    },
+    {
+      "TimeOffset": 32.485,
+      "EndTime": 32.485
+    },
+    {
+      "TimeOffset": 33.039,
+      "EndTime": 33.039
+    },
+    {
+      "TimeOffset": 33.593,
+      "IsMeasure": true,
+      "EndTime": 33.593
+    },
+    {
+      "TimeOffset": 34.146,
+      "EndTime": 34.146
+    },
+    {
+      "TimeOffset": 34.7,
+      "EndTime": 34.7
+    },
+    {
+      "TimeOffset": 35.254,
+      "EndTime": 35.254
+    },
+    {
+      "TimeOffset": 35.807,
+      "IsMeasure": true,
+      "EndTime": 35.807
+    },
+    {
+      "TimeOffset": 36.361,
+      "EndTime": 36.361
+    },
+    {
+      "TimeOffset": 36.915,
+      "EndTime": 36.915
+    },
+    {
+      "TimeOffset": 37.468,
+      "EndTime": 37.468
+    },
+    {
+      "TimeOffset": 38.022,
+      "IsMeasure": true,
+      "EndTime": 38.022
+    },
+    {
+      "TimeOffset": 38.576,
+      "EndTime": 38.576
+    },
+    {
+      "TimeOffset": 39.129,
+      "EndTime": 39.129
+    },
+    {
+      "TimeOffset": 39.683,
+      "EndTime": 39.683
+    },
+    {
+      "TimeOffset": 40.229,
+      "IsMeasure": true,
+      "EndTime": 40.229
+    },
+    {
+      "TimeOffset": 40.775,
+      "EndTime": 40.775
+    },
+    {
+      "TimeOffset": 41.321,
+      "EndTime": 41.321
+    },
+    {
+      "TimeOffset": 41.866,
+      "EndTime": 41.866
+    },
+    {
+      "TimeOffset": 42.412,
+      "IsMeasure": true,
+      "EndTime": 42.412
+    },
+    {
+      "TimeOffset": 42.958,
+      "EndTime": 42.958
+    },
+    {
+      "TimeOffset": 43.504,
+      "EndTime": 43.504
+    },
+    {
+      "TimeOffset": 44.05,
+      "EndTime": 44.05
+    },
+    {
+      "TimeOffset": 44.595,
+      "IsMeasure": true,
+      "EndTime": 44.595
+    },
+    {
+      "TimeOffset": 45.141,
+      "EndTime": 45.141
+    },
+    {
+      "TimeOffset": 45.687,
+      "EndTime": 45.687
+    },
+    {
+      "TimeOffset": 46.233,
+      "EndTime": 46.233
+    },
+    {
+      "TimeOffset": 46.779,
+      "IsMeasure": true,
+      "EndTime": 46.779
+    },
+    {
+      "TimeOffset": 47.324,
+      "EndTime": 47.324
+    },
+    {
+      "TimeOffset": 47.87,
+      "EndTime": 47.87
+    },
+    {
+      "TimeOffset": 48.416,
+      "EndTime": 48.416
+    },
+    {
+      "TimeOffset": 48.962,
+      "IsMeasure": true,
+      "EndTime": 48.962
+    },
+    {
+      "TimeOffset": 49.508,
+      "EndTime": 49.508
+    },
+    {
+      "TimeOffset": 50.054,
+      "EndTime": 50.054
+    },
+    {
+      "TimeOffset": 50.599,
+      "EndTime": 50.599
+    },
+    {
+      "TimeOffset": 51.145,
+      "IsMeasure": true,
+      "EndTime": 51.145
+    },
+    {
+      "TimeOffset": 51.691,
+      "EndTime": 51.691
+    },
+    {
+      "TimeOffset": 52.237,
+      "EndTime": 52.237
+    },
+    {
+      "TimeOffset": 52.783,
+      "EndTime": 52.783
+    },
+    {
+      "TimeOffset": 53.328,
+      "IsMeasure": true,
+      "EndTime": 53.328
+    },
+    {
+      "TimeOffset": 53.874,
+      "EndTime": 53.874
+    },
+    {
+      "TimeOffset": 54.42,
+      "EndTime": 54.42
+    },
+    {
+      "TimeOffset": 54.966,
+      "EndTime": 54.966
+    },
+    {
+      "TimeOffset": 55.512,
+      "IsMeasure": true,
+      "EndTime": 55.512
+    },
+    {
+      "TimeOffset": 56.058,
+      "EndTime": 56.058
+    },
+    {
+      "TimeOffset": 56.603,
+      "EndTime": 56.603
+    },
+    {
+      "TimeOffset": 57.149,
+      "EndTime": 57.149
+    },
+    {
+      "TimeOffset": 57.695,
+      "IsMeasure": true,
+      "EndTime": 57.695
+    },
+    {
+      "TimeOffset": 58.241,
+      "EndTime": 58.241
+    },
+    {
+      "TimeOffset": 58.787,
+      "EndTime": 58.787
+    },
+    {
+      "TimeOffset": 59.332,
+      "EndTime": 59.332
+    },
+    {
+      "TimeOffset": 59.878,
+      "IsMeasure": true,
+      "EndTime": 59.878
+    },
+    {
+      "TimeOffset": 60.424,
+      "EndTime": 60.424
+    },
+    {
+      "TimeOffset": 60.97,
+      "EndTime": 60.97
+    },
+    {
+      "TimeOffset": 61.516,
+      "EndTime": 61.516
+    },
+    {
+      "TimeOffset": 62.062,
+      "IsMeasure": true,
+      "EndTime": 62.062
+    },
+    {
+      "TimeOffset": 62.607,
+      "EndTime": 62.607
+    },
+    {
+      "TimeOffset": 63.153,
+      "EndTime": 63.153
+    },
+    {
+      "TimeOffset": 63.699,
+      "EndTime": 63.699
+    },
+    {
+      "TimeOffset": 64.245,
+      "IsMeasure": true,
+      "EndTime": 64.245
+    },
+    {
+      "TimeOffset": 64.791,
+      "EndTime": 64.791
+    },
+    {
+      "TimeOffset": 65.336,
+      "EndTime": 65.336
+    },
+    {
+      "TimeOffset": 65.882,
+      "EndTime": 65.882
+    },
+    {
+      "TimeOffset": 66.428,
+      "IsMeasure": true,
+      "EndTime": 66.428
+    },
+    {
+      "TimeOffset": 66.974,
+      "EndTime": 66.974
+    },
+    {
+      "TimeOffset": 67.52,
+      "EndTime": 67.52
+    },
+    {
+      "TimeOffset": 68.066,
+      "EndTime": 68.066
+    },
+    {
+      "TimeOffset": 68.611,
+      "IsMeasure": true,
+      "EndTime": 68.611
+    },
+    {
+      "TimeOffset": 69.157,
+      "EndTime": 69.157
+    },
+    {
+      "TimeOffset": 69.703,
+      "EndTime": 69.703
+    },
+    {
+      "TimeOffset": 70.249,
+      "EndTime": 70.249
+    },
+    {
+      "TimeOffset": 70.792,
+      "IsMeasure": true,
+      "EndTime": 70.792
+    },
+    {
+      "TimeOffset": 71.336,
+      "EndTime": 71.336
+    },
+    {
+      "TimeOffset": 71.879,
+      "EndTime": 71.879
+    },
+    {
+      "TimeOffset": 72.423,
+      "EndTime": 72.423
+    },
+    {
+      "TimeOffset": 72.966,
+      "IsMeasure": true,
+      "EndTime": 72.966
+    },
+    {
+      "TimeOffset": 73.51,
+      "EndTime": 73.51
+    },
+    {
+      "TimeOffset": 74.053,
+      "EndTime": 74.053
+    },
+    {
+      "TimeOffset": 74.597,
+      "EndTime": 74.597
+    },
+    {
+      "TimeOffset": 75.14,
+      "IsMeasure": true,
+      "EndTime": 75.14
+    },
+    {
+      "TimeOffset": 75.684,
+      "EndTime": 75.684
+    },
+    {
+      "TimeOffset": 76.227,
+      "EndTime": 76.227
+    },
+    {
+      "TimeOffset": 76.771,
+      "EndTime": 76.771
+    },
+    {
+      "TimeOffset": 77.314,
+      "IsMeasure": true,
+      "EndTime": 77.314
+    },
+    {
+      "TimeOffset": 77.858,
+      "EndTime": 77.858
+    },
+    {
+      "TimeOffset": 78.401,
+      "EndTime": 78.401
+    },
+    {
+      "TimeOffset": 78.945,
+      "EndTime": 78.945
+    },
+    {
+      "TimeOffset": 79.482,
+      "IsMeasure": true,
+      "EndTime": 79.482
+    },
+    {
+      "TimeOffset": 80.018,
+      "EndTime": 80.018
+    },
+    {
+      "TimeOffset": 80.555,
+      "EndTime": 80.555
+    },
+    {
+      "TimeOffset": 81.092,
+      "EndTime": 81.092
+    },
+    {
+      "TimeOffset": 81.628,
+      "IsMeasure": true,
+      "EndTime": 81.628
+    },
+    {
+      "TimeOffset": 82.165,
+      "EndTime": 82.165
+    },
+    {
+      "TimeOffset": 82.702,
+      "EndTime": 82.702
+    },
+    {
+      "TimeOffset": 83.238,
+      "EndTime": 83.238
+    },
+    {
+      "TimeOffset": 83.775,
+      "IsMeasure": true,
+      "EndTime": 83.775
+    },
+    {
+      "TimeOffset": 84.312,
+      "EndTime": 84.312
+    },
+    {
+      "TimeOffset": 84.848,
+      "EndTime": 84.848
+    },
+    {
+      "TimeOffset": 85.385,
+      "EndTime": 85.385
+    },
+    {
+      "TimeOffset": 85.922,
+      "IsMeasure": true,
+      "EndTime": 85.922
+    },
+    {
+      "TimeOffset": 86.458,
+      "EndTime": 86.458
+    },
+    {
+      "TimeOffset": 86.995,
+      "EndTime": 86.995
+    },
+    {
+      "TimeOffset": 87.532,
+      "EndTime": 87.532
+    },
+    {
+      "TimeOffset": 88.068,
+      "IsMeasure": true,
+      "EndTime": 88.068
+    },
+    {
+      "TimeOffset": 88.605,
+      "EndTime": 88.605
+    },
+    {
+      "TimeOffset": 89.142,
+      "EndTime": 89.142
+    },
+    {
+      "TimeOffset": 89.678,
+      "EndTime": 89.678
+    },
+    {
+      "TimeOffset": 90.215,
+      "IsMeasure": true,
+      "EndTime": 90.215
+    },
+    {
+      "TimeOffset": 90.752,
+      "EndTime": 90.752
+    },
+    {
+      "TimeOffset": 91.288,
+      "EndTime": 91.288
+    },
+    {
+      "TimeOffset": 91.825,
+      "EndTime": 91.825
+    },
+    {
+      "TimeOffset": 92.362,
+      "IsMeasure": true,
+      "EndTime": 92.362
+    },
+    {
+      "TimeOffset": 92.898,
+      "EndTime": 92.898
+    },
+    {
+      "TimeOffset": 93.435,
+      "EndTime": 93.435
+    },
+    {
+      "TimeOffset": 93.972,
+      "EndTime": 93.972
+    },
+    {
+      "TimeOffset": 94.508,
+      "IsMeasure": true,
+      "EndTime": 94.508
+    },
+    {
+      "TimeOffset": 95.045,
+      "EndTime": 95.045
+    },
+    {
+      "TimeOffset": 95.582,
+      "EndTime": 95.582
+    },
+    {
+      "TimeOffset": 96.118,
+      "EndTime": 96.118
+    },
+    {
+      "TimeOffset": 96.655,
+      "IsMeasure": true,
+      "EndTime": 96.655
+    },
+    {
+      "TimeOffset": 97.192,
+      "EndTime": 97.192
+    },
+    {
+      "TimeOffset": 97.728,
+      "EndTime": 97.728
+    },
+    {
+      "TimeOffset": 98.265,
+      "EndTime": 98.265
+    },
+    {
+      "TimeOffset": 98.802,
+      "IsMeasure": true,
+      "EndTime": 98.802
+    },
+    {
+      "TimeOffset": 99.338,
+      "EndTime": 99.338
+    },
+    {
+      "TimeOffset": 99.875,
+      "EndTime": 99.875
+    },
+    {
+      "TimeOffset": 100.412,
+      "EndTime": 100.412
+    },
+    {
+      "TimeOffset": 100.948,
+      "IsMeasure": true,
+      "EndTime": 100.948
+    },
+    {
+      "TimeOffset": 101.485,
+      "EndTime": 101.485
+    },
+    {
+      "TimeOffset": 102.022,
+      "EndTime": 102.022
+    },
+    {
+      "TimeOffset": 102.558,
+      "EndTime": 102.558
+    },
+    {
+      "TimeOffset": 103.095,
+      "IsMeasure": true,
+      "EndTime": 103.095
+    },
+    {
+      "TimeOffset": 103.632,
+      "EndTime": 103.632
+    },
+    {
+      "TimeOffset": 104.168,
+      "EndTime": 104.168
+    },
+    {
+      "TimeOffset": 104.705,
+      "EndTime": 104.705
+    },
+    {
+      "TimeOffset": 105.242,
+      "IsMeasure": true,
+      "EndTime": 105.242
+    },
+    {
+      "TimeOffset": 105.778,
+      "EndTime": 105.778
+    },
+    {
+      "TimeOffset": 106.315,
+      "EndTime": 106.315
+    },
+    {
+      "TimeOffset": 106.852,
+      "EndTime": 106.852
+    },
+    {
+      "TimeOffset": 107.388,
+      "IsMeasure": true,
+      "EndTime": 107.388
+    },
+    {
+      "TimeOffset": 107.925,
+      "EndTime": 107.925
+    },
+    {
+      "TimeOffset": 108.462,
+      "EndTime": 108.462
+    },
+    {
+      "TimeOffset": 108.998,
+      "EndTime": 108.998
+    },
+    {
+      "TimeOffset": 109.535,
+      "IsMeasure": true,
+      "EndTime": 109.535
+    },
+    {
+      "TimeOffset": 110.072,
+      "EndTime": 110.072
+    },
+    {
+      "TimeOffset": 110.608,
+      "EndTime": 110.608
+    },
+    {
+      "TimeOffset": 111.145,
+      "EndTime": 111.145
+    },
+    {
+      "TimeOffset": 111.682,
+      "IsMeasure": true,
+      "EndTime": 111.682
+    },
+    {
+      "TimeOffset": 112.218,
+      "EndTime": 112.218
+    },
+    {
+      "TimeOffset": 112.755,
+      "EndTime": 112.755
+    },
+    {
+      "TimeOffset": 113.292,
+      "EndTime": 113.292
+    },
+    {
+      "TimeOffset": 113.832,
+      "IsMeasure": true,
+      "EndTime": 113.832
+    },
+    {
+      "TimeOffset": 114.371,
+      "EndTime": 114.371
+    },
+    {
+      "TimeOffset": 114.911,
+      "EndTime": 114.911
+    },
+    {
+      "TimeOffset": 115.451,
+      "EndTime": 115.451
+    },
+    {
+      "TimeOffset": 115.991,
+      "IsMeasure": true,
+      "EndTime": 115.991
+    },
+    {
+      "TimeOffset": 116.53,
+      "EndTime": 116.53
+    },
+    {
+      "TimeOffset": 117.07,
+      "EndTime": 117.07
+    },
+    {
+      "TimeOffset": 117.61,
+      "EndTime": 117.61
+    },
+    {
+      "TimeOffset": 118.15,
+      "IsMeasure": true,
+      "EndTime": 118.15
+    },
+    {
+      "TimeOffset": 118.69,
+      "EndTime": 118.69
+    },
+    {
+      "TimeOffset": 119.229,
+      "EndTime": 119.229
+    },
+    {
+      "TimeOffset": 119.769,
+      "EndTime": 119.769
+    },
+    {
+      "TimeOffset": 120.309,
+      "IsMeasure": true,
+      "EndTime": 120.309
+    },
+    {
+      "TimeOffset": 120.849,
+      "EndTime": 120.849
+    },
+    {
+      "TimeOffset": 121.389,
+      "EndTime": 121.389
+    },
+    {
+      "TimeOffset": 121.928,
+      "EndTime": 121.928
+    },
+    {
+      "TimeOffset": 122.461,
+      "IsMeasure": true,
+      "EndTime": 122.461
+    },
+    {
+      "TimeOffset": 122.994,
+      "EndTime": 122.994
+    },
+    {
+      "TimeOffset": 123.526,
+      "EndTime": 123.526
+    },
+    {
+      "TimeOffset": 124.059,
+      "EndTime": 124.059
+    },
+    {
+      "TimeOffset": 124.592,
+      "IsMeasure": true,
+      "EndTime": 124.592
+    },
+    {
+      "TimeOffset": 125.124,
+      "EndTime": 125.124
+    },
+    {
+      "TimeOffset": 125.657,
+      "EndTime": 125.657
+    },
+    {
+      "TimeOffset": 126.19,
+      "EndTime": 126.19
+    },
+    {
+      "TimeOffset": 126.722,
+      "IsMeasure": true,
+      "EndTime": 126.722
+    },
+    {
+      "TimeOffset": 127.255,
+      "EndTime": 127.255
+    },
+    {
+      "TimeOffset": 127.787,
+      "EndTime": 127.787
+    },
+    {
+      "TimeOffset": 128.32,
+      "EndTime": 128.32
+    },
+    {
+      "TimeOffset": 128.853,
+      "IsMeasure": true,
+      "EndTime": 128.853
+    },
+    {
+      "TimeOffset": 129.385,
+      "EndTime": 129.385
+    },
+    {
+      "TimeOffset": 129.918,
+      "EndTime": 129.918
+    },
+    {
+      "TimeOffset": 130.451,
+      "EndTime": 130.451
+    },
+    {
+      "TimeOffset": 130.983,
+      "IsMeasure": true,
+      "EndTime": 130.983
+    },
+    {
+      "TimeOffset": 131.516,
+      "EndTime": 131.516
+    },
+    {
+      "TimeOffset": 132.049,
+      "EndTime": 132.049
+    },
+    {
+      "TimeOffset": 132.581,
+      "EndTime": 132.581
+    },
+    {
+      "TimeOffset": 133.114,
+      "IsMeasure": true,
+      "EndTime": 133.114
+    },
+    {
+      "TimeOffset": 133.647,
+      "EndTime": 133.647
+    },
+    {
+      "TimeOffset": 134.179,
+      "EndTime": 134.179
+    },
+    {
+      "TimeOffset": 134.712,
+      "EndTime": 134.712
+    },
+    {
+      "TimeOffset": 135.244,
+      "IsMeasure": true,
+      "EndTime": 135.244
+    },
+    {
+      "TimeOffset": 135.777,
+      "EndTime": 135.777
+    },
+    {
+      "TimeOffset": 136.31,
+      "EndTime": 136.31
+    },
+    {
+      "TimeOffset": 136.842,
+      "EndTime": 136.842
+    },
+    {
+      "TimeOffset": 137.375,
+      "IsMeasure": true,
+      "EndTime": 137.375
+    },
+    {
+      "TimeOffset": 137.908,
+      "EndTime": 137.908
+    },
+    {
+      "TimeOffset": 138.44,
+      "EndTime": 138.44
+    },
+    {
+      "TimeOffset": 138.973,
+      "EndTime": 138.973
+    },
+    {
+      "TimeOffset": 139.506,
+      "IsMeasure": true,
+      "EndTime": 139.506
+    },
+    {
+      "TimeOffset": 140.038,
+      "EndTime": 140.038
+    },
+    {
+      "TimeOffset": 140.571,
+      "EndTime": 140.571
+    },
+    {
+      "TimeOffset": 141.103,
+      "EndTime": 141.103
+    },
+    {
+      "TimeOffset": 141.636,
+      "IsMeasure": true,
+      "EndTime": 141.636
+    },
+    {
+      "TimeOffset": 142.169,
+      "EndTime": 142.169
+    },
+    {
+      "TimeOffset": 142.701,
+      "EndTime": 142.701
+    },
+    {
+      "TimeOffset": 143.234,
+      "EndTime": 143.234
+    },
+    {
+      "TimeOffset": 143.767,
+      "IsMeasure": true,
+      "EndTime": 143.767
+    },
+    {
+      "TimeOffset": 144.299,
+      "EndTime": 144.299
+    },
+    {
+      "TimeOffset": 144.832,
+      "EndTime": 144.832
+    },
+    {
+      "TimeOffset": 145.365,
+      "EndTime": 145.365
+    },
+    {
+      "TimeOffset": 145.897,
+      "IsMeasure": true,
+      "EndTime": 145.897
+    },
+    {
+      "TimeOffset": 146.43,
+      "EndTime": 146.43
+    },
+    {
+      "TimeOffset": 146.963,
+      "EndTime": 146.963
+    },
+    {
+      "TimeOffset": 147.495,
+      "EndTime": 147.495
+    },
+    {
+      "TimeOffset": 148.028,
+      "IsMeasure": true,
+      "EndTime": 148.028
+    },
+    {
+      "TimeOffset": 148.56,
+      "EndTime": 148.56
+    },
+    {
+      "TimeOffset": 149.093,
+      "EndTime": 149.093
+    },
+    {
+      "TimeOffset": 149.626,
+      "EndTime": 149.626
+    },
+    {
+      "TimeOffset": 150.158,
+      "IsMeasure": true,
+      "EndTime": 150.158
+    },
+    {
+      "TimeOffset": 150.691,
+      "EndTime": 150.691
+    },
+    {
+      "TimeOffset": 151.224,
+      "EndTime": 151.224
+    },
+    {
+      "TimeOffset": 151.756,
+      "EndTime": 151.756
+    },
+    {
+      "TimeOffset": 152.284,
+      "IsMeasure": true,
+      "EndTime": 152.284
+    },
+    {
+      "TimeOffset": 152.811,
+      "EndTime": 152.811
+    },
+    {
+      "TimeOffset": 153.338,
+      "EndTime": 153.338
+    },
+    {
+      "TimeOffset": 153.865,
+      "EndTime": 153.865
+    },
+    {
+      "TimeOffset": 154.393,
+      "IsMeasure": true,
+      "EndTime": 154.393
+    },
+    {
+      "TimeOffset": 154.92,
+      "EndTime": 154.92
+    },
+    {
+      "TimeOffset": 155.447,
+      "EndTime": 155.447
+    },
+    {
+      "TimeOffset": 155.975,
+      "EndTime": 155.975
+    },
+    {
+      "TimeOffset": 156.509,
+      "IsMeasure": true,
+      "EndTime": 156.509
+    },
+    {
+      "TimeOffset": 157.044,
+      "EndTime": 157.044
+    },
+    {
+      "TimeOffset": 157.579,
+      "EndTime": 157.579
+    },
+    {
+      "TimeOffset": 158.114,
+      "EndTime": 158.114
+    },
+    {
+      "TimeOffset": 158.648,
+      "IsMeasure": true,
+      "EndTime": 158.648
+    },
+    {
+      "TimeOffset": 159.183,
+      "EndTime": 159.183
+    },
+    {
+      "TimeOffset": 159.718,
+      "EndTime": 159.718
+    },
+    {
+      "TimeOffset": 160.253,
+      "EndTime": 160.253
+    },
+    {
+      "TimeOffset": 160.778,
+      "IsMeasure": true,
+      "EndTime": 160.778
+    },
+    {
+      "TimeOffset": 161.303,
+      "EndTime": 161.303
+    },
+    {
+      "TimeOffset": 161.827,
+      "EndTime": 161.827
+    },
+    {
+      "TimeOffset": 162.352,
+      "EndTime": 162.352
+    },
+    {
+      "TimeOffset": 162.877,
+      "IsMeasure": true,
+      "EndTime": 162.877
+    },
+    {
+      "TimeOffset": 163.402,
+      "EndTime": 163.402
+    },
+    {
+      "TimeOffset": 163.927,
+      "EndTime": 163.927
+    },
+    {
+      "TimeOffset": 164.452,
+      "EndTime": 164.452
+    },
+    {
+      "TimeOffset": 164.977,
+      "IsMeasure": true,
+      "EndTime": 164.977
+    },
+    {
+      "TimeOffset": 165.502,
+      "EndTime": 165.502
+    },
+    {
+      "TimeOffset": 166.026,
+      "EndTime": 166.026
+    },
+    {
+      "TimeOffset": 166.551,
+      "EndTime": 166.551
+    },
+    {
+      "TimeOffset": 167.076,
+      "IsMeasure": true,
+      "EndTime": 167.076
+    },
+    {
+      "TimeOffset": 167.601,
+      "EndTime": 167.601
+    },
+    {
+      "TimeOffset": 168.126,
+      "EndTime": 168.126
+    },
+    {
+      "TimeOffset": 168.651,
+      "EndTime": 168.651
+    },
+    {
+      "TimeOffset": 169.176,
+      "IsMeasure": true,
+      "EndTime": 169.176
+    },
+    {
+      "TimeOffset": 169.701,
+      "EndTime": 169.701
+    },
+    {
+      "TimeOffset": 170.225,
+      "EndTime": 170.225
+    },
+    {
+      "TimeOffset": 170.75,
+      "EndTime": 170.75
+    },
+    {
+      "TimeOffset": 171.275,
+      "IsMeasure": true,
+      "EndTime": 171.275
+    },
+    {
+      "TimeOffset": 171.8,
+      "EndTime": 171.8
+    },
+    {
+      "TimeOffset": 172.325,
+      "EndTime": 172.325
+    },
+    {
+      "TimeOffset": 172.85,
+      "EndTime": 172.85
+    },
+    {
+      "TimeOffset": 173.375,
+      "IsMeasure": true,
+      "EndTime": 173.375
+    },
+    {
+      "TimeOffset": 173.9,
+      "EndTime": 173.9
+    },
+    {
+      "TimeOffset": 174.425,
+      "EndTime": 174.425
+    },
+    {
+      "TimeOffset": 174.949,
+      "EndTime": 174.949
+    },
+    {
+      "TimeOffset": 175.474,
+      "IsMeasure": true,
+      "EndTime": 175.474
+    },
+    {
+      "TimeOffset": 175.999,
+      "EndTime": 175.999
+    },
+    {
+      "TimeOffset": 176.524,
+      "EndTime": 176.524
+    },
+    {
+      "TimeOffset": 177.049,
+      "EndTime": 177.049
+    },
+    {
+      "TimeOffset": 177.574,
+      "IsMeasure": true,
+      "EndTime": 177.574
+    },
+    {
+      "TimeOffset": 178.099,
+      "EndTime": 178.099
+    },
+    {
+      "TimeOffset": 178.624,
+      "EndTime": 178.624
+    },
+    {
+      "TimeOffset": 179.148,
+      "EndTime": 179.148
+    },
+    {
+      "TimeOffset": 179.673,
+      "IsMeasure": true,
+      "EndTime": 179.673
+    },
+    {
+      "TimeOffset": 180.198,
+      "EndTime": 180.198
+    },
+    {
+      "TimeOffset": 180.723,
+      "EndTime": 180.723
+    },
+    {
+      "TimeOffset": 181.248,
+      "EndTime": 181.248
+    },
+    {
+      "TimeOffset": 181.773,
+      "IsMeasure": true,
+      "EndTime": 181.773
+    },
+    {
+      "TimeOffset": 182.298,
+      "EndTime": 182.298
+    },
+    {
+      "TimeOffset": 182.823,
+      "EndTime": 182.823
+    },
+    {
+      "TimeOffset": 183.347,
+      "EndTime": 183.347
+    },
+    {
+      "TimeOffset": 183.872,
+      "IsMeasure": true,
+      "EndTime": 183.872
+    },
+    {
+      "TimeOffset": 184.397,
+      "EndTime": 184.397
+    },
+    {
+      "TimeOffset": 184.922,
+      "EndTime": 184.922
+    },
+    {
+      "TimeOffset": 185.447,
+      "EndTime": 185.447
+    },
+    {
+      "TimeOffset": 185.972,
+      "IsMeasure": true,
+      "EndTime": 185.972
+    },
+    {
+      "TimeOffset": 186.497,
+      "EndTime": 186.497
+    },
+    {
+      "TimeOffset": 187.022,
+      "EndTime": 187.022
+    },
+    {
+      "TimeOffset": 187.547,
+      "EndTime": 187.547
+    },
+    {
+      "TimeOffset": 188.071,
+      "IsMeasure": true,
+      "EndTime": 188.071
+    },
+    {
+      "TimeOffset": 188.596,
+      "EndTime": 188.596
+    },
+    {
+      "TimeOffset": 189.121,
+      "EndTime": 189.121
+    },
+    {
+      "TimeOffset": 189.646,
+      "EndTime": 189.646
+    },
+    {
+      "TimeOffset": 190.171,
+      "IsMeasure": true,
+      "EndTime": 190.171
+    },
+    {
+      "TimeOffset": 190.696,
+      "EndTime": 190.696
+    },
+    {
+      "TimeOffset": 191.221,
+      "EndTime": 191.221
+    },
+    {
+      "TimeOffset": 191.746,
+      "EndTime": 191.746
+    },
+    {
+      "TimeOffset": 192.27,
+      "IsMeasure": true,
+      "EndTime": 192.27
+    },
+    {
+      "TimeOffset": 192.795,
+      "EndTime": 192.795
+    },
+    {
+      "TimeOffset": 193.32,
+      "EndTime": 193.32
+    },
+    {
+      "TimeOffset": 193.845,
+      "EndTime": 193.845
+    },
+    {
+      "TimeOffset": 194.37,
+      "IsMeasure": true,
+      "EndTime": 194.37
+    },
+    {
+      "TimeOffset": 194.895,
+      "EndTime": 194.895
+    },
+    {
+      "TimeOffset": 195.42,
+      "EndTime": 195.42
+    },
+    {
+      "TimeOffset": 195.945,
+      "EndTime": 195.945
+    },
+    {
+      "TimeOffset": 196.469,
+      "IsMeasure": true,
+      "EndTime": 196.469
+    },
+    {
+      "TimeOffset": 196.994,
+      "EndTime": 196.994
+    },
+    {
+      "TimeOffset": 197.519,
+      "EndTime": 197.519
+    },
+    {
+      "TimeOffset": 198.044,
+      "EndTime": 198.044
+    },
+    {
+      "TimeOffset": 198.569,
+      "IsMeasure": true,
+      "EndTime": 198.569
+    },
+    {
+      "TimeOffset": 199.094,
+      "EndTime": 199.094
+    },
+    {
+      "TimeOffset": 199.619,
+      "EndTime": 199.619
+    },
+    {
+      "TimeOffset": 200.144,
+      "EndTime": 200.144
+    },
+    {
+      "TimeOffset": 200.669,
+      "IsMeasure": true,
+      "EndTime": 200.669
+    },
+    {
+      "TimeOffset": 201.193,
+      "EndTime": 201.193
+    },
+    {
+      "TimeOffset": 201.718,
+      "EndTime": 201.718
+    },
+    {
+      "TimeOffset": 202.243,
+      "EndTime": 202.243
+    },
+    {
+      "TimeOffset": 202.768,
+      "IsMeasure": true,
+      "EndTime": 202.768
+    },
+    {
+      "TimeOffset": 203.293,
+      "EndTime": 203.293
+    },
+    {
+      "TimeOffset": 203.818,
+      "EndTime": 203.818
+    },
+    {
+      "TimeOffset": 204.343,
+      "EndTime": 204.343
+    },
+    {
+      "TimeOffset": 204.868,
+      "IsMeasure": true,
+      "EndTime": 204.868
+    },
+    {
+      "TimeOffset": 205.392,
+      "EndTime": 205.392
+    },
+    {
+      "TimeOffset": 205.917,
+      "EndTime": 205.917
+    },
+    {
+      "TimeOffset": 206.442,
+      "EndTime": 206.442
+    },
+    {
+      "TimeOffset": 206.967,
+      "IsMeasure": true,
+      "EndTime": 206.967
+    },
+    {
+      "TimeOffset": 207.492,
+      "EndTime": 207.492
+    },
+    {
+      "TimeOffset": 208.017,
+      "EndTime": 208.017
+    },
+    {
+      "TimeOffset": 208.542,
+      "EndTime": 208.542
+    },
+    {
+      "TimeOffset": 209.067,
+      "IsMeasure": true,
+      "EndTime": 209.067
+    },
+    {
+      "TimeOffset": 209.591,
+      "EndTime": 209.591
+    },
+    {
+      "TimeOffset": 210.116,
+      "EndTime": 210.116
+    },
+    {
+      "TimeOffset": 210.641,
+      "EndTime": 210.641
+    },
+    {
+      "TimeOffset": 211.166,
+      "IsMeasure": true,
+      "EndTime": 211.166
+    },
+    {
+      "TimeOffset": 211.691,
+      "EndTime": 211.691
+    },
+    {
+      "TimeOffset": 212.216,
+      "EndTime": 212.216
+    },
+    {
+      "TimeOffset": 212.741,
+      "EndTime": 212.741
+    },
+    {
+      "TimeOffset": 213.266,
+      "IsMeasure": true,
+      "EndTime": 213.266
+    },
+    {
+      "TimeOffset": 213.791,
+      "EndTime": 213.791
+    },
+    {
+      "TimeOffset": 214.315,
+      "EndTime": 214.315
+    },
+    {
+      "TimeOffset": 214.84,
+      "EndTime": 214.84
+    },
+    {
+      "TimeOffset": 215.365,
+      "IsMeasure": true,
+      "EndTime": 215.365
+    },
+    {
+      "TimeOffset": 215.89,
+      "EndTime": 215.89
+    },
+    {
+      "TimeOffset": 216.415,
+      "EndTime": 216.415
+    },
+    {
+      "TimeOffset": 216.94,
+      "EndTime": 216.94
+    },
+    {
+      "TimeOffset": 217.465,
+      "IsMeasure": true,
+      "EndTime": 217.465
+    },
+    {
+      "TimeOffset": 217.99,
+      "EndTime": 217.99
+    },
+    {
+      "TimeOffset": 218.514,
+      "EndTime": 218.514
+    },
+    {
+      "TimeOffset": 219.039,
+      "EndTime": 219.039
+    },
+    {
+      "TimeOffset": 219.564,
+      "IsMeasure": true,
+      "EndTime": 219.564
+    },
+    {
+      "TimeOffset": 220.089,
+      "EndTime": 220.089
+    },
+    {
+      "TimeOffset": 220.614,
+      "EndTime": 220.614
+    },
+    {
+      "TimeOffset": 221.139,
+      "EndTime": 221.139
+    },
+    {
+      "TimeOffset": 221.664,
+      "IsMeasure": true,
+      "EndTime": 221.664
+    },
+    {
+      "TimeOffset": 222.189,
+      "EndTime": 222.189
+    },
+    {
+      "TimeOffset": 222.713,
+      "EndTime": 222.713
+    },
+    {
+      "TimeOffset": 223.238,
+      "EndTime": 223.238
+    },
+    {
+      "TimeOffset": 223.763,
+      "IsMeasure": true,
+      "EndTime": 223.763
+    },
+    {
+      "TimeOffset": 224.288,
+      "EndTime": 224.288
+    },
+    {
+      "TimeOffset": 224.813,
+      "EndTime": 224.813
+    },
+    {
+      "TimeOffset": 225.338,
+      "EndTime": 225.338
+    },
+    {
+      "TimeOffset": 225.863,
+      "IsMeasure": true,
+      "EndTime": 225.863
+    },
+    {
+      "TimeOffset": 226.388,
+      "EndTime": 226.388
+    },
+    {
+      "TimeOffset": 226.913,
+      "EndTime": 226.913
+    },
+    {
+      "TimeOffset": 227.437,
+      "EndTime": 227.437
+    },
+    {
+      "TimeOffset": 227.962,
+      "IsMeasure": true,
+      "EndTime": 227.962
+    },
+    {
+      "TimeOffset": 228.487,
+      "EndTime": 228.487
+    },
+    {
+      "TimeOffset": 229.012,
+      "EndTime": 229.012
+    },
+    {
+      "TimeOffset": 229.537,
+      "EndTime": 229.537
+    },
+    {
+      "TimeOffset": 230.062,
+      "IsMeasure": true,
+      "EndTime": 230.062
+    },
+    {
+      "TimeOffset": 230.587,
+      "EndTime": 230.587
+    },
+    {
+      "TimeOffset": 231.112,
+      "EndTime": 231.112
+    },
+    {
+      "TimeOffset": 231.636,
+      "EndTime": 231.636
+    },
+    {
+      "TimeOffset": 232.161,
+      "IsMeasure": true,
+      "EndTime": 232.161
+    },
+    {
+      "TimeOffset": 232.686,
+      "EndTime": 232.686
+    },
+    {
+      "TimeOffset": 233.211,
+      "EndTime": 233.211
+    },
+    {
+      "TimeOffset": 233.736,
+      "EndTime": 233.736
+    },
+    {
+      "TimeOffset": 234.261,
+      "IsMeasure": true,
+      "EndTime": 234.261
+    },
+    {
+      "TimeOffset": 234.786,
+      "EndTime": 234.786
+    },
+    {
+      "TimeOffset": 235.311,
+      "EndTime": 235.311
+    },
+    {
+      "TimeOffset": 235.835,
+      "EndTime": 235.835
+    },
+    {
+      "TimeOffset": 236.36,
+      "IsMeasure": true,
+      "EndTime": 236.36
+    },
+    {
+      "TimeOffset": 236.885,
+      "EndTime": 236.885
+    },
+    {
+      "TimeOffset": 237.41,
+      "EndTime": 237.41
+    },
+    {
+      "TimeOffset": 237.935,
+      "EndTime": 237.935
+    },
+    {
+      "TimeOffset": 238.46,
+      "IsMeasure": true,
+      "EndTime": 238.46
+    },
+    {
+      "TimeOffset": 238.985,
+      "EndTime": 238.985
+    },
+    {
+      "TimeOffset": 239.51,
+      "EndTime": 239.51
+    },
+    {
+      "TimeOffset": 240.035,
+      "EndTime": 240.035
+    },
+    {
+      "TimeOffset": 240.617,
+      "IsMeasure": true,
+      "EndTime": 240.617
+    },
+    {
+      "TimeOffset": 241.199,
+      "EndTime": 241.199
+    },
+    {
+      "TimeOffset": 241.781,
+      "EndTime": 241.781
+    },
+    {
+      "TimeOffset": 242.363,
+      "EndTime": 242.363
+    },
+    {
+      "TimeOffset": 242.979,
+      "IsMeasure": true,
+      "EndTime": 242.979
+    },
+    {
+      "TimeOffset": 243.595,
+      "EndTime": 243.595
+    },
+    {
+      "TimeOffset": 244.211,
+      "EndTime": 244.211
+    },
+    {
+      "TimeOffset": 244.827,
+      "EndTime": 244.827
+    },
+    {
+      "TimeOffset": 245.489,
+      "IsMeasure": true,
+      "EndTime": 245.489
+    },
+    {
+      "TimeOffset": 246.151,
+      "EndTime": 246.151
+    },
+    {
+      "TimeOffset": 246.813,
+      "EndTime": 246.813
+    },
+    {
+      "TimeOffset": 247.474,
+      "EndTime": 247.474
+    },
+    {
+      "TimeOffset": 248.169,
+      "IsMeasure": true,
+      "EndTime": 248.169
+    },
+    {
+      "TimeOffset": 248.863,
+      "EndTime": 248.863
+    },
+    {
+      "TimeOffset": 249.557,
+      "EndTime": 249.557
+    },
+    {
+      "TimeOffset": 250.252,
+      "EndTime": 250.252
+    },
+    {
+      "TimeOffset": 250.946,
+      "IsMeasure": true,
+      "EndTime": 250.946
+    },
+    {
+      "TimeOffset": 251.64,
+      "EndTime": 251.64
+    },
+    {
+      "TimeOffset": 252.334,
+      "EndTime": 252.334
+    },
+    {
+      "TimeOffset": 253.029,
+      "EndTime": 253.029
+    },
+    {
+      "TimeOffset": 253.564,
+      "IsMeasure": true,
+      "EndTime": 253.564
+    },
+    {
+      "TimeOffset": 254.1,
+      "EndTime": 254.1
+    },
+    {
+      "TimeOffset": 254.636,
+      "EndTime": 254.636
+    },
+    {
+      "TimeOffset": 255.172,
+      "EndTime": 255.172
+    },
+    {
+      "TimeOffset": 255.707,
+      "IsMeasure": true,
+      "EndTime": 255.707
+    },
+    {
+      "TimeOffset": 256.243,
+      "EndTime": 256.243
+    },
+    {
+      "TimeOffset": 256.779,
+      "EndTime": 256.779
+    },
+    {
+      "TimeOffset": 257.314,
+      "EndTime": 257.314
+    },
+    {
+      "TimeOffset": 257.85,
+      "IsMeasure": true,
+      "EndTime": 257.85
+    },
+    {
+      "TimeOffset": 258.386,
+      "EndTime": 258.386
+    },
+    {
+      "TimeOffset": 258.922,
+      "EndTime": 258.922
+    },
+    {
+      "TimeOffset": 259.457,
+      "EndTime": 259.457
+    },
+    {
+      "TimeOffset": 259.993,
+      "IsMeasure": true,
+      "EndTime": 259.993
+    },
+    {
+      "TimeOffset": 260.529,
+      "EndTime": 260.529
+    },
+    {
+      "TimeOffset": 261.064,
+      "EndTime": 261.064
+    },
+    {
+      "TimeOffset": 261.6,
+      "EndTime": 261.6
+    },
+    {
+      "TimeOffset": 262.136,
+      "IsMeasure": true,
+      "EndTime": 262.136
+    },
+    {
+      "TimeOffset": 262.672,
+      "EndTime": 262.672
+    },
+    {
+      "TimeOffset": 263.207,
+      "EndTime": 263.207
+    },
+    {
+      "TimeOffset": 263.743,
+      "EndTime": 263.743
+    },
+    {
+      "TimeOffset": 264.279,
+      "IsMeasure": true,
+      "EndTime": 264.279
+    },
+    {
+      "TimeOffset": 264.814,
+      "EndTime": 264.814
+    },
+    {
+      "TimeOffset": 265.35,
+      "EndTime": 265.35
+    },
+    {
+      "TimeOffset": 265.886,
+      "EndTime": 265.886
+    },
+    {
+      "TimeOffset": 266.422,
+      "IsMeasure": true,
+      "EndTime": 266.422
+    },
+    {
+      "TimeOffset": 266.957,
+      "EndTime": 266.957
+    },
+    {
+      "TimeOffset": 267.493,
+      "EndTime": 267.493
+    },
+    {
+      "TimeOffset": 268.029,
+      "EndTime": 268.029
+    },
+    {
+      "TimeOffset": 268.564,
+      "IsMeasure": true,
+      "EndTime": 268.564
+    },
+    {
+      "TimeOffset": 269.1,
+      "EndTime": 269.1
+    },
+    {
+      "TimeOffset": 269.636,
+      "EndTime": 269.636
+    },
+    {
+      "TimeOffset": 270.172,
+      "EndTime": 270.172
+    },
+    {
+      "TimeOffset": 270.707,
+      "IsMeasure": true,
+      "EndTime": 270.707
+    },
+    {
+      "TimeOffset": 271.243,
+      "EndTime": 271.243
+    }
+  ]
+}
