@@ -1,0 +1,30 @@
+{
+  "SongName": "The Man Who Can\u0027t Be Moved",
+  "SongYear": 2008,
+  "SongLengthSeconds": 247.355,
+  "ArtistName": "The Script",
+  "AlbumName": "The Script",
+  "InstrumentParts": [
+    {
+      "InstrumentName": "lead",
+      "InstrumentType": "LeadGuitar",
+      "Tuning": {
+        "StringSemitoneOffsets": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CapoFret": 0,
+      "SongDifficulty": 1.5
+    },
+    {
+      "InstrumentName": "vocals",
+      "InstrumentType": "Vocals",
+      "CapoFret": 0
+    }
+  ]
+}
