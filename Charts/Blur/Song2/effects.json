@@ -1,0 +1,33 @@
+{
+  "Presets": {
+    "CleanIntro": {
+      "Overdrive":  { "Enabled": true,  "Gain": 30.0, "OutputLevel": 0.3, "ToneFilter": 0.5 },
+      "Distortion": { "Enabled": false, "Gain": 0.0, "OutputLevel": 0.0, "ToneFilter": 0.0 },
+      "Compressor": { "Enabled": true,  "Threshold": 0.3, "Ratio": 3.0, "Attack": 0.01, "Release": 0.1 }
+    },
+    "HeavyFuzz": {
+      "Overdrive":  { "Enabled": true,  "Gain": 50.0, "OutputLevel": 0.5, "ToneFilter": 0.4 },
+      "Distortion": { "Enabled": true,  "Gain": 85.0, "OutputLevel": 0.6, "ToneFilter": 0.35 },
+      "Compressor": { "Enabled": true,  "Threshold": 0.2, "Ratio": 4.0, "Attack": 0.005, "Release": 0.08 }
+    },
+    "ChorusMax": {
+      "Overdrive":  { "Enabled": true,  "Gain": 55.0, "OutputLevel": 0.55, "ToneFilter": 0.45 },
+      "Distortion": { "Enabled": true,  "Gain": 95.0, "OutputLevel": 0.7, "ToneFilter": 0.3 },
+      "Compressor": { "Enabled": true,  "Threshold": 0.15, "Ratio": 5.0, "Attack": 0.003, "Release": 0.06 }
+    },
+    "OutroFeedback": {
+      "Overdrive":  { "Enabled": true,  "Gain": 60.0, "OutputLevel": 0.5, "ToneFilter": 0.4 },
+      "Distortion": { "Enabled": true,  "Gain": 80.0, "OutputLevel": 0.6, "ToneFilter": 0.25 },
+      "Compressor": { "Enabled": true,  "Threshold": 0.25, "Ratio": 3.5, "Attack": 0.01, "Release": 0.15 },
+      "Delay":      { "Enabled": true,  "DelayTimeMs": 300.0, "Feedback": 0.6, "Mix": 0.25 }
+    }
+  },
+  "Timeline": [
+    { "Time": 0.0,   "Preset": "CleanIntro" },
+    { "Time": 26.0,  "Preset": "HeavyFuzz" },
+    { "Time": 55.0,  "Preset": "ChorusMax" },
+    { "Time": 80.0,  "Preset": "HeavyFuzz" },
+    { "Time": 96.0,  "Preset": "ChorusMax" },
+    { "Time": 118.0, "Preset": "OutroFeedback" }
+  ]
+}
